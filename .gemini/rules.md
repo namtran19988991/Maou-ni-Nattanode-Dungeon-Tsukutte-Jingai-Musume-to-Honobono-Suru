@@ -105,6 +105,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 魔法短銃 | Súng lục ma thuật | Vũ khí | Vũ khí phụ của Yuki |
 | 魔力眼 | Ma Nhãn | Kỹ năng | Kỹ năng quan sát ma lực của Yuki |
 | クラス | Class | Thuật ngữ status | Lớp / Lớp nhân vật trong bảng chỉ số |
+| 罪焔 | Zaien | Vũ khí | Tên ma kiếm của Enne |
 
 
 
