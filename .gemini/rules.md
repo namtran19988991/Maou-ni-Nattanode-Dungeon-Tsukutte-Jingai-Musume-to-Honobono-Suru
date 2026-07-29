@@ -102,6 +102,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 真・玉座の間 | Phòng Ngai Vàng | Địa điểm | Phòng ngai vàng trong Mê Cung |
 | 覇龍 | Rồng tối cao | Danh hiệu / Chủng tộc | Danh hiệu/Xưng hiệu của Refi |
 | 魔法短銃 | Súng lục ma thuật | Vũ khí | Vũ khí phụ của Yuki |
+| 魔力眼 | Ma Nhãn | Kỹ năng | Kỹ năng quan sát ma lực của Yuki |
+| クラス | Class | Thuật ngữ status | Lớp / Lớp nhân vật trong bảng chỉ số |
 
 
 
