@@ -55,6 +55,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Neru | anh | em | quan hệ anh em |
 | Yuki | Refi | tôi | cô | quan hệ ngang hàng / đồng hành |
 | Refi | Yuki | tôi | cậu/Yuki | quan hệ ngang hàng / đồng hành |
+| Yuki | Kẻ thù / Kẻ gây sự | tao | mày | khi khiêu khích, cãi nhau với kẻ thù |
 | Refi | Illuna | chị | em | quan hệ chị em |
 | Refi | Shii | chị | em | quan hệ chị em |
 | Refi | Enne | chị | em | quan hệ chị em |
