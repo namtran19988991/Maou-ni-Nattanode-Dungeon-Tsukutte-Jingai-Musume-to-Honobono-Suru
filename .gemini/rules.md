@@ -27,7 +27,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
-- **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh phiên âm tiếng việt thay vì dịch hẳn thành chữ cái tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi, tiếng gầm, tiếng thở dốc v.v. (có thể tham khảo các từ tượng thanh đã có trong các chương trước nếu không đủ ngữ cảnh) (ví dụ: tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "fufufu", "guhh", "gaaahhhh", haaa...haa... v.v).
+- **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh phiên âm tiếng việt thay vì dịch hẳn thành chữ cái tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi, tiếng gầm, tiếng thở dốc, tiếng thốt/giật mình v.v. (có thể tham khảo các từ tượng thanh đã có trong các chương trước nếu không đủ ngữ cảnh) (ví dụ: tiếng thốt giật mình "――――ッ！！" → "Kuh...!", tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "fufufu", "guhh", "gaaahhhh", haaa...haa... v.v).
 - **Giọng văn nội tâm** (suy nghĩ của nhân vật chính): sử dụng **văn phong đời thường, thoải mái**, có thể dùng ngôn ngữ bông đùa, tự giễu, phản ứng cảm thán tự nhiên. Tránh dùng giọng văn quá trang trọng hay cứng nhắc cho phần nội tâm.
 - **Khẩu ngữ đặc trưng** của nhân vật cần được giữ nguyên (ví dụ: nhân vật luôn nói "desu" ở cuối câu → giữ nguyên "desu" trong bản dịch để thể hiện cá tính).
 - Ưu tiên **cách diễn đạt tự nhiên trong tiếng Việt** hơn là dịch sát từng từ. Ví dụ: "思わずため息が出る" → "Tôi bất giác thở dài" thay vì "Một tiếng thở dài không tự chủ thoát ra".
@@ -53,6 +53,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Shii | anh | em | quan hệ anh em |
 | Yuki | Enne | anh | em | quan hệ anh em |
 | Yuki | Neru | anh | em | quan hệ anh em |
+| Yuki | Refi | tôi | cô | quan hệ ngang hàng / đồng hành |
+| Refi | Yuki | tôi | cậu/Yuki | quan hệ ngang hàng / đồng hành |
 | Refi | Illuna | chị | em | quan hệ chị em |
 | Refi | Shii | chị | em | quan hệ chị em |
 | Refi | Enne | chị | em | quan hệ chị em |
@@ -79,6 +81,12 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 | Tên gốc | Tên dịch | Ghi chú |
 |----------|----------|---------|
+| ユキ | Yuki | Nam chính / Ma Vương |
+| レフィ | Refi | Tên thường gọi |
+| レフィシオス | Leficios | Tên đầy đủ (Rồng tối cao) |
+| エン | Enne | Ma kiếm linh |
+| ジロディオ＝ギュオーガ | Zirodio = Gyuorga | Hắc Long / Long Vương mới |
+| ベルム | Berm | Cựu Long Vương |
 
 
 ---
@@ -91,6 +99,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 | Tên gốc (JP) | Tên dịch (VI) | Loại | Ghi chú |
 |---------------|---------------|------|--------|
+| 真・玉座の間 | Phòng Ngai Vàng | Địa điểm | Phòng ngai vàng trong Mê Cung |
+| 覇龍 | Rồng tối cao | Danh hiệu / Chủng tộc | Danh hiệu/Xưng hiệu của Refi |
+| 魔法短銃 | Súng lục ma thuật | Vũ khí | Vũ khí phụ của Yuki |
 
 
 
