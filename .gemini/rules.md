@@ -53,8 +53,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Shii | anh | em | quan hệ anh em |
 | Yuki | Enne | anh | em | quan hệ anh em |
 | Yuki | Neru | anh | em | quan hệ anh em |
-| Yuki | Refi | tôi / anh | cô / em | Bình thường xưng tôi-cô. Từ đoạn tỏ tình Chương 132 trở đi xưng anh-em |
-| Refi | Yuki | tôi / em | cậu/Yuki/anh | Bình thường xưng tôi-cậu. Từ đoạn tỏ tình Chương 132 trở đi xưng em-anh/Yuki |
+| Yuki | Refi | anh | em | quan hệ vợ chồng |
+| Refi | Yuki | em | anh | quan hệ vợ chồng |
 | Yuki | Kẻ thù / Kẻ gây sự | tao | mày | khi khiêu khích, cãi nhau với kẻ thù |
 | Gyuorga | Yuki | ta | ngươi | Gyuorga (Hắc Long/Long Vương) coi thường Yuki |
 | Gyuorga | Refi | ta | ngươi/Reficios | Gyuorga với Refi |
@@ -109,6 +109,16 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | クラス | Class | Thuật ngữ status | Lớp / Lớp nhân vật trong bảng chỉ số |
 | 罪焔 | Zaien | Vũ khí | Tên ma kiếm của Enne |
 | 硬化 | Gia Cường | Kỹ năng / Tính năng | Tính năng gia cường không khí, nước, tường... của Dungeon |
+| 断罪の龍魔王 | Long vương/ Ma vương đoạt tội | Class | Class mới của Yuki |
+| 王者の威圧 | Bá vương uy áp | Kỹ năng | Kỹ năng cố định của Yuki |
+| 原初魔法 | Ma pháp khởi nguyên | Kỹ năng | Kỹ năng ma pháp |
+| 索敵 | cảm biến kẻ địch | Kỹ năng | Kỹ năng tầm tầm/dò tìm kẻ thù |
+| 武器錬成 | Biến đổi vũ khí | Kỹ năng | Kỹ năng tạo/biến đổi vũ khí |
+| 危機察知 | cảm biến nguy hiểm | Kỹ năng | Kỹ năng nhận biết nguy hiểm |
+| 魔術付与 | Phù chú | Kỹ năng | Kỹ năng phù chú/phụ giới |
+| 異世界の魔王 | Ma vương từ thế giới khác | Danh hiệu | Danh hiệu của Yuki |
+| 断罪者 | đoạn tội giả | Danh hiệu | Danh hiệu của Yuki |
+| 人類の敵対者 | Nhân loại đối địch giả | Danh hiệu | Danh hiệu của Yuki |
 
 
 
