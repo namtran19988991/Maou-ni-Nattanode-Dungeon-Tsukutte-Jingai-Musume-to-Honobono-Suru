@@ -12,7 +12,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Bắt buộc phải giữ nguyên ngôi kể** (ngôi thứ nhất, ngôi thứ ba, v.v.) như trong bản gốc.
 - **Giữ nguyên ý nghĩa, bối cảnh và giọng điệu** của văn bản gốc.
 - Bản dịch phải **phù hợp với văn phong tiếng Việt**, tự nhiên và trôi chảy — không dịch máy móc từng từ.
-- Sử dụng **ngôn ngữ văn học Việt Nam** phù hợp với thể loại truyện (tiểu thuyết, light novel, web novel, v.v.).
+- Sử dụng **ngôn ngữ văn học Việt Nam** phù hợp với thể loại truyện (light novel, web novel, v.v.).
 - Giữ nguyên các **đoạn hội thoại** với đúng ngữ khí, cảm xúc và cách xưng hô phù hợp văn hóa Việt.
 - Các thuật ngữ chuyên ngành (fantasy, v.v.) nên được dịch theo **cách dùng phổ biến** trong cộng đồng đọc truyện Việt Nam.
 - **Không thêm chú thích, giải thích hay bình luận** vào bản dịch trừ khi được yêu cầu.
@@ -56,6 +56,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Refi | tôi | cô | quan hệ ngang hàng / đồng hành |
 | Refi | Yuki | tôi | cậu/Yuki | quan hệ ngang hàng / đồng hành |
 | Yuki | Kẻ thù / Kẻ gây sự | tao | mày | khi khiêu khích, cãi nhau với kẻ thù |
+| Gyuorga | Yuki | ta | ngươi | Gyuorga (Hắc Long/Long Vương) coi thường Yuki |
+| Gyuorga | Refi | ta | ngươi/Reficios | Gyuorga với Refi |
 | Refi | Illuna | chị | em | quan hệ chị em |
 | Refi | Shii | chị | em | quan hệ chị em |
 | Refi | Enne | chị | em | quan hệ chị em |
@@ -106,6 +108,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 魔力眼 | Ma Nhãn | Kỹ năng | Kỹ năng quan sát ma lực của Yuki |
 | クラス | Class | Thuật ngữ status | Lớp / Lớp nhân vật trong bảng chỉ số |
 | 罪焔 | Zaien | Vũ khí | Tên ma kiếm của Enne |
+| 硬化 | Gia Cường | Kỹ năng / Tính năng | Tính năng gia cường không khí, nước, tường... của Dungeon |
 
 
 
