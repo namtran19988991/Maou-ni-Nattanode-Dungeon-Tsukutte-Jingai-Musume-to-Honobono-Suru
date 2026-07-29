@@ -53,8 +53,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Shii | anh | em | quan hệ anh em |
 | Yuki | Enne | anh | em | quan hệ anh em |
 | Yuki | Neru | anh | em | quan hệ anh em |
-| Yuki | Refi | tôi | cô | quan hệ ngang hàng / đồng hành |
-| Refi | Yuki | tôi | cậu/Yuki | quan hệ ngang hàng / đồng hành |
+| Yuki | Refi | tôi / anh | cô / em | Bình thường xưng tôi-cô. Từ đoạn tỏ tình Chương 132 trở đi xưng anh-em |
+| Refi | Yuki | tôi / em | cậu/Yuki/anh | Bình thường xưng tôi-cậu. Từ đoạn tỏ tình Chương 132 trở đi xưng em-anh/Yuki |
 | Yuki | Kẻ thù / Kẻ gây sự | tao | mày | khi khiêu khích, cãi nhau với kẻ thù |
 | Gyuorga | Yuki | ta | ngươi | Gyuorga (Hắc Long/Long Vương) coi thường Yuki |
 | Gyuorga | Refi | ta | ngươi/Reficios | Gyuorga với Refi |
