@@ -71,6 +71,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Leila | Refi | em | Refi-sama/ngài | quan hệ chủ nhân - hầu gái |
 | Leila | Lyuu | tôi | cô  | quan hệ ngang hàng |
 | Lyuu | Leila | tôi | cô  | quan hệ ngang hàng |
+| Haloria | Leila | tôi | cô | quan hệ ngang hàng |
+| Leila | Haloria | tôi | cô | quan hệ ngang hàng |
+| Haloria | Yuki | tôi | Ma Vương Yuki / ngài | quan hệ sứ giả - Ma Vương |
+| Yuki | Haloria | tôi | cô | Yuki với Haloria |
 
 
 
