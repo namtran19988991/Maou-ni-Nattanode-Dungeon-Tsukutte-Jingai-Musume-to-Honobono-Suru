@@ -94,6 +94,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ジロディオ＝ギュオーガ | Gyuorga | Hắc Long / Long Vương mới |
 | ベルム | Berm | Cựu Long Vương |
 | ネル | Neru | Dũng giả |
+| リル | Riru | Ma thú hộ vệ (Sói) |
 
 
 ---
