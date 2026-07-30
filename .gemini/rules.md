@@ -137,6 +137,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 万化の鎖 | Sợi Xích Vĩnh Hằng | Kỹ năng | Kỹ năng xích cố định của Riru |
 | 爪闘術 | Vuốt Kỹ | Kỹ năng | Kỹ năng chiến đấu bằng móng vuốt của Riru |
 | 牙闘術 | Nanh Kỹ | Kỹ năng | Kỹ năng chiến đấu bằng nanh của Riru |
+| 契約者 | Khế Ước Giả | Danh hiệu / Danh xưng | Người kết nối/giao kèo với thức thần |
 
 
 
