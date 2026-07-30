@@ -53,7 +53,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Shii | anh | em | quan hệ anh em |
 | Yuki | Enne | anh | em | quan hệ anh em |
 | Yuki | Neru | anh | em | quan hệ anh em |
-| Yuki | Refi | anh / tôi | em / em ấy | quan hệ vợ chồng (khi hội thoại: anh - em; khi suy nghĩ/nhắc tới: em ấy) |
+| Yuki | Refi | anh | em / em ấy (nhắc đến) | quan hệ vợ chồng (khi hội thoại: anh - em; khi suy nghĩ/nhắc tới: em ấy) |
 | Refi | Yuki | em | anh | quan hệ vợ chồng |
 | Yuki | Kẻ thù / Kẻ gây sự | tao | mày | khi khiêu khích, cãi nhau với kẻ thù |
 | Gyuorga | Yuki | ta | ngươi | Gyuorga (Hắc Long/Long Vương) coi thường Yuki |
