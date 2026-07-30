@@ -64,11 +64,14 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Lyuu | tôi | cô | quan hệ chủ nhân - hầu gái |
 | Lyuu | Yuki | em | chủ nhân/ngài/maou-sama | quan hệ chủ nhân - hầu gái |
 | Yuki | Leila | tôi | cô | quan hệ chủ nhân - hầu gái |
-| Leila | Yuki | em | chủ nhân/ngài/goshujin-sama | quan hệ chủ nhân - hầu gái |
+| Leila | Yuki | tôi | chủ nhân/ngài/goshujin-sama | quan hệ chủ nhân - hầu gái |
 | Refi | Lyuu | tôi | cô | quan hệ chủ nhân - hầu gái |
 | Lyuu | Refi | em | Refi-sama/ngài | quan hệ chủ nhân - hầu gái |
 | Refi | Leila | tôi | cô | quan hệ chủ nhân - hầu gái |
 | Leila | Refi | em | Refi-sama/ngài | quan hệ chủ nhân - hầu gái |
+| Leila | Lyuu | tôi | cô  | quan hệ ngang hàng |
+| Lyuu | Leila | tôi | cô  | quan hệ ngang hàng |
+
 
 
 
@@ -88,7 +91,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | レフィ | Refi | Tên thường gọi |
 | レフィシオス | Leficios | Tên đầy đủ (Rồng tối cao) |
 | エン | Enne | Ma kiếm linh |
-| ジロディオ＝ギュオーガ | Zirodio = Gyuorga | Hắc Long / Long Vương mới |
+| ジロディオ＝ギュオーガ | Gyuorga | Hắc Long / Long Vương mới |
 | ベルム | Berm | Cựu Long Vương |
 
 
@@ -115,7 +118,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 索敵 | cảm biến kẻ địch | Kỹ năng | Kỹ năng tầm tầm/dò tìm kẻ thù |
 | 武器錬成 | Biến đổi vũ khí | Kỹ năng | Kỹ năng tạo/biến đổi vũ khí |
 | 危機察知 | cảm biến nguy hiểm | Kỹ năng | Kỹ năng nhận biết nguy hiểm |
-| 魔術付与 | Phù chú | Kỹ năng | Kỹ năng phù chú/phụ giới |
+| 魔術付与 | Yểm Phép | Kỹ năng | Kỹ năng Yểm Phép/phụ giới |
 | 異世界の魔王 | Ma vương từ thế giới khác | Danh hiệu | Danh hiệu của Yuki |
 | 断罪者 | đoạn tội giả | Danh hiệu | Danh hiệu của Yuki |
 | 人類の敵対者 | Nhân loại đối địch giả | Danh hiệu | Danh hiệu của Yuki |
