@@ -93,6 +93,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | エン | Enne | Ma kiếm linh |
 | ジロディオ＝ギュオーガ | Gyuorga | Hắc Long / Long Vương mới |
 | ベルム | Berm | Cựu Long Vương |
+| ネル | Neru | Dũng giả |
 
 
 ---
@@ -122,6 +123,12 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 異世界の魔王 | Ma vương từ thế giới khác | Danh hiệu | Danh hiệu của Yuki |
 | 断罪者 | đoạn tội giả | Danh hiệu | Danh hiệu của Yuki |
 | 人類の敵対者 | Nhân loại đối địch giả | Danh hiệu | Danh hiệu của Yuki |
+| 念話 | Thần Giao Cách Cảm | Kỹ năng | Kỹ năng truyền suy nghĩ/nói chuyện qua tâm trí |
+| 紅焔 | Xích Diễm | Kỹ năng | Kỹ năng ngọn lửa đỏ của Zaien |
+| インテリジェンス・ウェポン | Vũ Khí Trí Tuệ | Danh hiệu | Vũ khí có trí tuệ/tư duy |
+| 龍殺し | Sát Long Giả | Danh hiệu | Danh hiệu diệt rồng của Zaien |
+| スキルスクロール | cuộn kỹ năng | Vật phẩm | Cuộn chứa kỹ năng dùng để học kỹ năng |
+| 認識阻害 | Cản Trở Nhận Thức | Kỹ năng / Hiệu ứng | Hiệu ứng che giấu thông tin/nhận thức |
 
 
 
