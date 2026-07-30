@@ -102,6 +102,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ナイヤ | Naiya | Miêu thú nhân / Mạo hiểm giả |
 | ミーレ | Miele | Ma thuật sĩ tộc Ma Nữ / Mạo hiểm giả |
 | ルイーヌ | Luine | Mạo hiểm giả / Tộc Ác Ma Tenzel |
+| フィナル | Phinal | Vua của Ma Giới / Phinal = Regineris = Saturnia |
 
 
 ---
