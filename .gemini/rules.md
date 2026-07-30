@@ -75,6 +75,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Leila | Haloria | tôi | cô | quan hệ ngang hàng |
 | Haloria | Yuki | tôi | Ma Vương Yuki / ngài | quan hệ sứ giả - Ma Vương |
 | Yuki | Haloria | tôi | cô | Yuki với Haloria |
+| Phinal | Yuki | ta | cậu / Ma Vương Yuki | Phinal (Vua Ma Giới) lịch sự, xởi lởi với Yuki |
+| Yuki | Phinal | tôi | anh | Yuki giao tiếp bình đẳng với Phinal |
+| Haloria | Phinal | thần | Bệ hạ / Đức Vương | Haloria với Vua Ma Giới |
+| Phinal | Haloria | tôi | cô / Haloria | Vua Ma Giới với thuộc hạ Haloria |
 
 
 
@@ -137,6 +141,12 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 近衛隠密兵 | Cận Vệ Ẩn Mật | Class | Class của Haloria |
 | テンツェル・デビル | Ác Ma Tenzel | Chủng tộc | Chủng tộc của Luine |
 | 剣舞士 | Vũ Kiếm Sư | Class | Class của Luine |
+| 予見眼 | Ma Nhãn Tiên Tri | Kỹ năng | Kỹ năng cố định của Phinal |
+| 観察眼 | Ma Nhãn Quan Sát | Kỹ năng | Kỹ năng cố định của Phinal |
+| 並列思考 | Tư Duy Song Song | Kỹ năng | Kỹ năng của Phinal |
+| 先読み | Tiên Đoán | Kỹ năng | Kỹ năng của Phinal |
+| 神の差配 | Sứ Giả Thần Thánh | Danh hiệu | Danh hiệu của Phinal |
+| 天才策士 | Thiên Tài Mưu Lược | Danh hiệu | Danh hiệu của Phinal |
 | 羊角一族 | tộc Dương Giác | Gia tộc / Tộc | Tộc Ma tộc của Leila |
 | 知識欲の鬼人 | Hiện Thân Của Tri Thức | Biệt danh / Xưng hiệu | Biệt danh quá khứ của Leila |
 | 念話 | Thần Giao Cách Cảm | Kỹ năng | Kỹ năng truyền suy nghĩ/nói chuyện qua tâm trí |
