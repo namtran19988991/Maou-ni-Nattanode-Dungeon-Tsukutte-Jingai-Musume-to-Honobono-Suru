@@ -130,6 +130,13 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 龍殺し | Sát Long Giả | Danh hiệu | Danh hiệu diệt rồng của Zaien |
 | スキルスクロール | cuộn kỹ năng | Vật phẩm | Cuộn chứa kỹ năng dùng để học kỹ năng |
 | 認識阻害 | Cản Trở Nhận Thức | Kỹ năng / Hiệu ứng | Hiệu ứng che giấu thông tin/nhận thức |
+| ジャイアント・ブラッド・サーペント | Huyết Xà Khổng Lồ | Chủng tộc | Rắn đỏ cự ma thú (Orochi) |
+| ノワル・クロウ | Hắc Quạ | Chủng tộc | Quạ đen ma thú (Yata) |
+| 化け猫 | Linh Miêu | Chủng tộc | Mèo hai đuôi ma thú (Byaku) |
+| 水精霊 | Thủy Tinh Linh | Chủng tộc | Khối nước ma thú (Seimi) |
+| 万化の鎖 | Sợi Xích Vĩnh Hằng | Kỹ năng | Kỹ năng xích cố định của Riru |
+| 爪闘術 | Vuốt Kỹ | Kỹ năng | Kỹ năng chiến đấu bằng móng vuốt của Riru |
+| 牙闘術 | Nanh Kỹ | Kỹ năng | Kỹ năng chiến đấu bằng nanh của Riru |
 
 
 
