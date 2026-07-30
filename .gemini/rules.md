@@ -124,6 +124,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 異世界の魔王 | Ma vương từ thế giới khác | Danh hiệu | Danh hiệu của Yuki |
 | 断罪者 | đoạn tội giả | Danh hiệu | Danh hiệu của Yuki |
 | 人類の敵対者 | Nhân loại đối địch giả | Danh hiệu | Danh hiệu của Yuki |
+| ガルディアン・デビル | Ác Ma Hộ Vệ | Chủng tộc | Chủng tộc của Haloria |
+| 近衛隠密兵 | Cận Vệ Ẩn Mật | Class | Class của Haloria |
 | 念話 | Thần Giao Cách Cảm | Kỹ năng | Kỹ năng truyền suy nghĩ/nói chuyện qua tâm trí |
 | 紅焔 | Xích Diễm | Kỹ năng | Kỹ năng ngọn lửa đỏ của Zaien |
 | インテリジェンス・ウェポン | Vũ Khí Trí Tuệ | Danh hiệu | Vũ khí có trí tuệ/tư duy |
