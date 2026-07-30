@@ -126,6 +126,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 人類の敵対者 | Nhân loại đối địch giả | Danh hiệu | Danh hiệu của Yuki |
 | ガルディアン・デビル | Ác Ma Hộ Vệ | Chủng tộc | Chủng tộc của Haloria |
 | 近衛隠密兵 | Cận Vệ Ẩn Mật | Class | Class của Haloria |
+| 羊角一族 | tộc Dương Giác | Gia tộc / Tộc | Tộc Ma tộc của Leila |
+| 知識欲の鬼人 | Hiện Thân Của Tri Thức | Biệt danh / Xưng hiệu | Biệt danh quá khứ của Leila |
 | 念話 | Thần Giao Cách Cảm | Kỹ năng | Kỹ năng truyền suy nghĩ/nói chuyện qua tâm trí |
 | 紅焔 | Xích Diễm | Kỹ năng | Kỹ năng ngọn lửa đỏ của Zaien |
 | インテリジェンス・ウェポン | Vũ Khí Trí Tuệ | Danh hiệu | Vũ khí có trí tuệ/tư duy |
