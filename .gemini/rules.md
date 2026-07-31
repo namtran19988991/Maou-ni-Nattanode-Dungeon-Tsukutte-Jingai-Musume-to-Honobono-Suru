@@ -149,6 +149,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 魔力眼 | Ma Nhãn | Kỹ năng | Kỹ năng quan sát ma lực của Yuki |
 | クラス | Class | Thuật ngữ status | Lớp / Lớp nhân vật trong bảng chỉ số |
 | 罪焔 | Zaien | Vũ khí | Tên ma kiếm của Enne |
+| 破塞 | Hasai | Vũ khí | Tên thanh đại kiếm cũ của Yuki |
 | 硬化 | Gia Cường | Kỹ năng / Tính năng | Tính năng gia cường không khí, nước, tường... của Dungeon |
 | 断罪の龍魔王 | Long vương/ Ma vương đoạt tội | Class | Class mới của Yuki |
 | 王者の威圧 | Bá vương uy áp | Kỹ năng | Kỹ năng cố định của Yuki |
