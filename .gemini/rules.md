@@ -117,6 +117,13 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ルノーギル | Renogil | Cánh tay phải của Phinal / Sát Thủ Thầm Lặng |
 | パラグロ | Paragro | Thí sinh đối thủ đầu tiên ở vòng chính thức |
 | レミーロ＝ジルベルト | Remiro Gilberto | Lão quản gia đồng hành cùng nhóm Neru / Kiếm Thánh |
+| イルーナ | Illuna | Con gái nuôi của Yuki |
+| シィ | Shii | Slime / Quái vật Dungeon |
+| リュー | Lyuu | Hầu gái thú nhân |
+| レイラ | Leila | Hầu gái tộc Dương Giác |
+| レイ | Rei | Con gái cả bộ ba Wraith |
+| ルイ | Rui | Con gái thứ hai bộ ba Wraith |
+| ロー | Rou | Con gái út bộ ba Wraith |
 
 
 ---
