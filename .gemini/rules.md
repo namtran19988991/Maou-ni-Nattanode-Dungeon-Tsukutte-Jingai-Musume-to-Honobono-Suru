@@ -110,6 +110,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ルイーヌ | Luine | Mạo hiểm giả / Tộc Ác Ma Tenzel |
 | フィナル | Phinal | Vua của Ma Giới / Phinal = Regineris = Saturnia |
 | ロニア＝ルシードル | Ronia Lucidor | Pháp sư hoàng gia / Bạn của Neru |
+| ゲジュウ | Gejuu | Con trai công tước thuộc tộc Ma Nhân Cơ Bắp |
 
 
 ---
@@ -145,6 +146,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 近衛隠密兵 | Cận Vệ Ẩn Mật | Class | Class của Haloria |
 | テンツェル・デビル | Ác Ma Tenzel | Chủng tộc | Chủng tộc của Luine |
 | ミド・デビル | Bán Ma Nhân | Chủng tộc | Chủng tộc cải trang của Neru & Ronia |
+| ムスケル・デーモン | Ma Nhân Cơ Bắp | Chủng tộc | Chủng tộc của Gejuu |
 | 剣舞士 | Vũ Kiếm Sư | Class | Class của Luine |
 | 予見眼 | Ma Nhãn Tiên Tri | Kỹ năng | Kỹ năng cố định của Phinal |
 | 観察眼 | Ma Nhãn Quan Sát | Kỹ năng | Kỹ năng cố định của Phinal |
