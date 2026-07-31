@@ -34,6 +34,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Câu phải đầy đủ chủ ngữ**, không bỏ lửng. Ví dụ: "Dù ở rất xa nhưng **tôi** không thể nhìn thấy đỉnh **của nó**" thay vì "Xa đến thế mà không thể nhìn thấy đỉnh".
 - Dùng **liên từ đối lập** rõ ràng: "Mặc dù...nhưng", "Dù...nhưng" thay vì lối viết ngắt rời. Ví dụ: "Mặc dù nó có vẻ cách xa vài km nhưng nó lớn đến mức..." thay vì "Nghe nói nó cách xa vài kilômét, nhưng nó lớn đến mức...".
 - Dùng **từ ngữ chính xác, cụ thể** thay vì mơ hồ. Ví dụ: "ảo ảnh quang học" thay vì "mắt bị ảo giác".
+- **Văn phong miêu tả cảm xúc & tâm tư nhân vật (đặc biệt trong các đoạn ngoại truyện / góc nhìn nhân vật nữ)**: Diễn đạt mềm mại, sâu lắng, mượt mà và đong đầy cảm xúc. Khắc họa tinh tế từng chuyển biến tâm lý, nét bối rối, niềm vui hay sự nhói đau thầm kín của nhân vật (như cách thể hiện nội tâm của Neru trong chương 157) mà vẫn trung thành với nguyên tác.
 
 
 ## 3. Quy Tắc Xưng Hô
