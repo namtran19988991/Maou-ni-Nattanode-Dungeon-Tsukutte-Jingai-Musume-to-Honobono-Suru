@@ -81,6 +81,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Phinal | Haloria | tôi | cô / Haloria | Vua Ma Giới với thuộc hạ Haloria |
 | Neru | Ronia | em | chị / Ronia | quan hệ chị em / bạn bè (Neru gọi Ronia là chị / chị ấy) |
 | Ronia | Neru | chị / tôi | em / Neru | Ronia với Neru |
+| Neru | Trưởng tộc Dực Nhân | tôi | ngài / các ngài | Neru với Tộc trưởng / Thủ lĩnh Dực Nhân |
 
 
 
@@ -124,6 +125,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | レイ | Rei | Con gái cả bộ ba Wraith |
 | ルイ | Rui | Con gái thứ hai bộ ba Wraith |
 | ロー | Rou | Con gái út bộ ba Wraith |
+| 翼人族の頭領 | Trưởng tộc Dực Nhân / Tộc trưởng Dực Nhân | Thủ lĩnh/Tộc trưởng Dực Nhân tộc |
+| レグリス | Regris | Chiến sĩ tộc Dực Nhân |
+| オリアス | Orias | Chiến sĩ tộc Dực Nhân |
 
 
 ---
@@ -190,6 +194,11 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 闘技大会 | Giải đấu võ thuật | Thuật ngữ / Sự kiện | Giải đấu tỉ võ ở Ma Giới |
 | 闘技大会デステア・トルム | Giải đấu võ thuật Destina Trome | Sự kiện | Tên giải đấu võ thuật ở Ma Giới |
 | 変化の指輪 | Nhẫn Biến Hình | Trang bị | Nhẫn đổi màu mắt và màu tóc khi truyền ma lực |
+| 翼人族 | Dực Nhân tộc / tộc Dực Nhân | Chủng tộc | Chủng tộc người có cánh |
+| 惑いの結界 | Kết Giới Ảo Ảnh | Kỹ năng / Kết giới | Kỹ năng kết giới ảo ảnh của Neru |
+| 絶域の結界 | Kết Giới Phân Ly | Kỹ năng / Kết giới | Kỹ năng kết giới chia cắt khổng lồ của Neru |
+| セイクリッド・シャイン | Sacred Shine | Ma thuật | Ma thuật ánh sáng của Neru |
+| セイクリッド・アロー | Sacred Arrow | Ma thuật | Ma thuật tên ánh sáng của Neru |
 
 
 
