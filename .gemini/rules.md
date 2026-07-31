@@ -79,6 +79,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Phinal | tôi | anh | Yuki giao tiếp bình đẳng với Phinal |
 | Haloria | Phinal | thần | Bệ hạ / Đức Vương | Haloria với Vua Ma Giới |
 | Phinal | Haloria | tôi | cô / Haloria | Vua Ma Giới với thuộc hạ Haloria |
+| Neru | Ronia | em | chị / Ronia | quan hệ chị em / bạn bè (Neru gọi Ronia là chị / chị ấy) |
+| Ronia | Neru | chị / tôi | em / Neru | Ronia với Neru |
 
 
 
@@ -107,6 +109,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ミーレ | Miele | Ma thuật sĩ tộc Ma Nữ / Mạo hiểm giả |
 | ルイーヌ | Luine | Mạo hiểm giả / Tộc Ác Ma Tenzel |
 | フィナル | Phinal | Vua của Ma Giới / Phinal = Regineris = Saturnia |
+| ロニア＝ルシードル | Ronia Lucidor | Pháp sư hoàng gia / Bạn của Neru |
 
 
 ---
@@ -131,9 +134,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 断罪の龍魔王 | Long vương/ Ma vương đoạt tội | Class | Class mới của Yuki |
 | 王者の威圧 | Bá vương uy áp | Kỹ năng | Kỹ năng cố định của Yuki |
 | 原初魔法 | Ma pháp khởi nguyên | Kỹ năng | Kỹ năng ma pháp |
-| 索敵 | cảm biến kẻ địch | Kỹ năng | Kỹ năng tầm tầm/dò tìm kẻ thù |
+| 索敵 | Cảm Biến Kẻ Địch | Kỹ năng | Kỹ năng tầm tầm/dò tìm kẻ thù |
 | 武器錬成 | Biến đổi vũ khí | Kỹ năng | Kỹ năng tạo/biến đổi vũ khí |
-| 危機察知 | cảm biến nguy hiểm | Kỹ năng | Kỹ năng nhận biết nguy hiểm |
+| 危機察知 | Cảm Biến Nguy Hiểm | Kỹ năng | Kỹ năng nhận biết nguy hiểm |
 | 魔術付与 | Yểm Phép | Kỹ năng | Kỹ năng Yểm Phép/phụ giới |
 | 異世界の魔王 | Ma vương từ thế giới khác | Danh hiệu | Danh hiệu của Yuki |
 | 断罪者 | đoạn tội giả | Danh hiệu | Danh hiệu của Yuki |
@@ -141,6 +144,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ガルディアン・デビル | Ác Ma Hộ Vệ | Chủng tộc | Chủng tộc của Haloria |
 | 近衛隠密兵 | Cận Vệ Ẩn Mật | Class | Class của Haloria |
 | テンツェル・デビル | Ác Ma Tenzel | Chủng tộc | Chủng tộc của Luine |
+| ミド・デビル | Bán Ma Nhân | Chủng tộc | Chủng tộc cải trang của Neru & Ronia |
 | 剣舞士 | Vũ Kiếm Sư | Class | Class của Luine |
 | 予見眼 | Ma Nhãn Tiên Tri | Kỹ năng | Kỹ năng cố định của Phinal |
 | 観察眼 | Ma Nhãn Quan Sát | Kỹ năng | Kỹ năng cố định của Phinal |
@@ -164,6 +168,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 爪闘術 | Vuốt Kỹ | Kỹ năng | Kỹ năng chiến đấu bằng móng vuốt của Riru |
 | 牙闘術 | Nanh Kỹ | Kỹ năng | Kỹ năng chiến đấu bằng nanh của Riru |
 | 契約者 | Khế Ước Giả | Danh hiệu / Danh xưng | Người kết nối/giao kèo với thức thần |
+| 俊足 | Thần Tốc | Kỹ năng | Kỹ năng độc nhất của Neru |
+| 聖剣の使い手 | Thánh Kiếm Sư | Danh hiệu | Danh hiệu của Neru |
+| 流され少女 | Thiếu Nữ Luôn Vâng Lời | Danh hiệu | Danh hiệu của Neru |
 
 
 
