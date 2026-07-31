@@ -197,8 +197,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 翼人族 | Dực Nhân tộc / tộc Dực Nhân | Chủng tộc | Chủng tộc người có cánh |
 | 惑いの結界 | Kết Giới Ảo Ảnh | Kỹ năng / Kết giới | Kỹ năng kết giới ảo ảnh của Neru |
 | 絶域の結界 | Kết Giới Phân Ly | Kỹ năng / Kết giới | Kỹ năng kết giới chia cắt khổng lồ của Neru |
-| セイクリッド・シャイン | Sacred Shine | Ma thuật | Ma thuật ánh sáng của Neru |
-| セイクリッド・アロー | Sacred Arrow | Ma thuật | Ma thuật tên ánh sáng của Neru |
+| セイクリッド・シャイン | Thánh Quang | Ma thuật | Ma thuật ánh sáng của Neru |
+| セイクリッド・アロー | Thánh Tiễn | Ma thuật | Ma thuật tên ánh sáng của Neru |
+| 月華 | Nguyệt Hoa | Vũ khí | Đoản kiếm Yuki tặng cho Neru |
 
 
 
