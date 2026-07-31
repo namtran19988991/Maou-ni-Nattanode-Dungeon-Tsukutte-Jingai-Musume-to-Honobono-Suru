@@ -111,6 +111,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | フィナル | Phinal | Vua của Ma Giới / Phinal = Regineris = Saturnia |
 | ロニア＝ルシードル | Ronia Lucidor | Pháp sư hoàng gia / Bạn của Neru |
 | ゲジュウ | Gejuu | Con trai công tước thuộc tộc Ma Nhân Cơ Bắp |
+| ハロリア | Haloria | Cận vệ của Phinal (Yuki gọi biệt danh フードちゃん -> cận vệ-san) |
+| ユプシロン | Ypsilon | Tên giả cải trang của Yuki khi tham gia thi đấu |
+| ゴジム | Gojim | Thủ lĩnh của Ác Ma tộc |
 
 
 ---
@@ -173,6 +176,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 俊足 | Thần Tốc | Kỹ năng | Kỹ năng độc nhất của Neru |
 | 聖剣の使い手 | Thánh Kiếm Sư | Danh hiệu | Danh hiệu của Neru |
 | 流され少女 | Thiếu Nữ Luôn Vâng Lời | Danh hiệu | Danh hiệu của Neru |
+| レージギヘッグ | Rejigihegg | Địa điểm | Vương đô của Ma Giới |
+| 闘技大会 | Giải đấu võ thuật | Thuật ngữ / Sự kiện | Giải đấu tỉ võ ở Ma Giới |
+| 闘技大会デステア・トルム | Giải đấu võ thuật Destina Trome | Sự kiện | Tên giải đấu võ thuật ở Ma Giới |
+| 変化の指輪 | Nhẫn Biến Hình | Trang bị | Nhẫn đổi màu mắt và màu tóc khi truyền ma lực |
 
 
 
