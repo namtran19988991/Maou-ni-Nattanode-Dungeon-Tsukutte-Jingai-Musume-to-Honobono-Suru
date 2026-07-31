@@ -114,6 +114,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ハロリア | Haloria | Cận vệ của Phinal (Yuki gọi biệt danh フードちゃん -> cận vệ-san) |
 | ユプシロン | Ypsilon | Tên giả cải trang của Yuki khi tham gia thi đấu |
 | ゴジム | Gojim | Thủ lĩnh của Ác Ma tộc |
+| ルノーギル | Renogil | Cánh tay phải của Phinal / Sát Thủ Thầm Lặng |
+| パラグロ | Paragro | Thí sinh đối thủ đầu tiên ở vòng chính thức |
+| レミーロ＝ジルベルト | Remiro Gilberto | Lão quản gia đồng hành cùng nhóm Neru / Kiếm Thánh |
 
 
 ---
