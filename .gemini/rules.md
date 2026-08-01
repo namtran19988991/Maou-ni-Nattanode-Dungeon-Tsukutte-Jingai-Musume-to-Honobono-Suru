@@ -41,7 +41,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 ### Quy tắc chung:
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ**(bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Yuki nói chuyện với Illuna, Shii, Enne (anh - em) → dùng "anh, không dùng "tôi"; Yuki nói với Lyuu (Quan hệ chủ nhân - hầu gái) → dùng "tôi" - "cô" với Lyuu.
-- **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ:  `onii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
+- **Giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `-dono`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ:  `onii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
 - **Khi ngôi kể dưới góc nhìn của Yuki nhắc đến Refi, Illuna, Shii, Enne, Neru (ngôi thứ 3 trong suy nghĩ / lời kể)**: Dùng **"em ấy"** (không dùng "cô ấy").
 
 ### Bảng xưng hô giữa các nhân vật:
