@@ -66,7 +66,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Lyuu | Yuki | em | anh / chủ nhân / goshujin-sama | quan hệ vợ chồng (khi đã kết hôn dùng anh thay vì ngài) |
 | Yuki | Leila | tôi | cô | quan hệ chủ nhân - hầu gái |
 | Leila | Yuki | tôi | chủ nhân/ngài/goshujin-sama | quan hệ chủ nhân - hầu gái |
-| Refi | Lyuu | tôi | cô | quan hệ chủ nhân - hầu gái |
+| Refi | Lyuu | chị | em | quan hệ ngang hàng |
 | Lyuu | Refi | em | Refi-sama/ngài | quan hệ chủ nhân - hầu gái |
 | Refi | Leila | tôi | cô | quan hệ chủ nhân - hầu gái |
 | Leila | Refi | em | Refi-sama/ngài | quan hệ chủ nhân - hầu gái |
