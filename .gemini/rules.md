@@ -17,7 +17,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - Các thuật ngữ chuyên ngành (fantasy, v.v.) nên được dịch theo **cách dùng phổ biến** trong cộng đồng đọc truyện Việt Nam.
 - **Không thêm chú thích, giải thích hay bình luận** vào bản dịch trừ khi được yêu cầu.
 - **Không tóm tắt hay lược bỏ** nội dung — dịch đầy đủ 100%.
-- **Tham khảo thêm các chương đã có để hiểu thêm về ngữ cảnh**
+- **Tham khảo thêm các chương trước đó để hiểu thêm về ngữ cảnh, tên gọi, quan hệ giữa các nhân vật, v.v.**
 
 ## 2. Quy Tắc Văn Phong
 
