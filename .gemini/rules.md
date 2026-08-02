@@ -63,7 +63,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Refi | Shii | chị | em | quan hệ chị em |
 | Refi | Enne | chị | em | quan hệ chị em |
 | Yuki | Lyuu | anh | em / em ấy (nhắc đến) | quan hệ vợ chồng (khi hội thoại: anh - em; khi suy nghĩ/nhắc tới: em ấy/Lyuu) |
-| Lyuu | Yuki | em | chủ nhân/ngài/maou-sama | quan hệ chủ nhân - hầu gái |
+| Lyuu | Yuki | em | anh / chủ nhân / goshujin-sama | quan hệ vợ chồng (khi đã kết hôn dùng anh thay vì ngài) |
 | Yuki | Leila | tôi | cô | quan hệ chủ nhân - hầu gái |
 | Leila | Yuki | tôi | chủ nhân/ngài/goshujin-sama | quan hệ chủ nhân - hầu gái |
 | Refi | Lyuu | tôi | cô | quan hệ chủ nhân - hầu gái |
