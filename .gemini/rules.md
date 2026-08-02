@@ -214,6 +214,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 - Chỉ xuất ra **bản dịch tiếng Việt**, không kèm bản gốc (trừ khi được yêu cầu).
 - Giữ nguyên **cấu trúc đoạn văn** như bản gốc.
+- Các đoạn văn bản cách nhau **một** dòng trống.
 - **Mỗi chương truyện** được gửi dịch sẽ được lưu thành **1 file `.md` riêng biệt**, đặt tên file theo **số chương** (ví dụ: chương 1 → `1.md`, chương 2 → `2.md`, chương 125 → `125.md`, v.v.).
 - **Tiêu đề** của chương trong file .md được dịch dưới dạng  Chương [số chương]: [nội dung chương]. Ví dụ. Chương 128: Long vương
 - Không cần kiểm tra trạng thái git.
