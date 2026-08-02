@@ -84,6 +84,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Ronia | Neru | chị / tôi | em / Neru | Ronia với Neru |
 | Neru | Yuki | em | Onii-san | Neru gọi Yuki là Onii-san |
 | Neru | Trưởng tộc Dực Nhân | tôi | ngài / các ngài | Neru với Tộc trưởng / Thủ lĩnh Dực Nhân |
+| Yuki | Riru & 4 thú cưng khác (Orochi, Yata, Byaku, Seimi) | tôi | cậu / cậu ấy (nhắc đến) | Yuki xưng tôi - gọi cậu khi nói chuyện, dùng cậu ấy khi nhắc đến |
 
 
 
@@ -108,6 +109,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ベルム | Berm | Cựu Long Vương |
 | ネル | Neru | Dũng giả |
 | リル | Riru | Ma thú hộ vệ (Sói) |
+| モフリル | Mofuriru | Tên đầy đủ của Riru |
 | ナイヤ | Naiya | Miêu thú nhân / Mạo hiểm giả |
 | ミーレ | Miele | Ma thuật sĩ tộc Ma Nữ / Mạo hiểm giả |
 | ルイーヌ | Luine | Mạo hiểm giả / Tộc Ác Ma Tenzel |
