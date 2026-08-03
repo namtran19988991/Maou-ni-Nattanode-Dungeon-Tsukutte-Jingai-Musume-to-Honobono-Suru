@@ -103,7 +103,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 |----------|----------|---------|
 | ユキ | Yuki | Nam chính / Ma Vương |
 | レフィ | Refi | Tên thường gọi |
-| レフィシオス | Leficios | Tên đầy đủ (Rồng tối cao) |
+| レフィシオス | Reficios | Tên đầy đủ (Rồng tối cao) |
 | エン | Enne | Ma kiếm linh |
 | ジロディオ＝ギュオーガ | Gyuorga | Hắc Long / Long Vương mới |
 | ベルム | Berm | Cựu Long Vương |
