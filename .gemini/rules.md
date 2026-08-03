@@ -208,6 +208,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | セイクリッド・シャイン | Thánh Quang | Ma thuật | Ma thuật ánh sáng của Neru |
 | セイクリッド・アロー | Thánh Tiễn | Ma thuật | Ma thuật tên ánh sáng của Neru |
 | 月華 | Nguyệt Hoa | Vũ khí | Đoản kiếm Yuki tặng cho Neru |
+| アルフィーロ | Alfeiro | Địa điểm | Thành phố biên giới của vương quốc loài người |
+| センギュリア | Senguria | Địa điểm | Thành phố trung chuyển trên đường tới Vương đô |
 
 
 
