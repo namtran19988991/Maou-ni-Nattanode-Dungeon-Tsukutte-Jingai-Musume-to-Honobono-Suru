@@ -124,7 +124,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | レミーロ＝ジルベルト | Remiero Gilberto | Lão quản gia đồng hành cùng nhóm Neru / Kiếm Thánh |
 | イルーナ | Illuna | Con gái nuôi của Yuki |
 | シィ | Shii | Slime / Quái vật Dungeon |
-| リュー | Lyuu | Hầu gái thú nhân |
+| リュー | Lyuu | Hầu gái thú nhân (Tên đầy đủ là Lyuuin Gilou) |
 | レイラ | Leila | Hầu gái tộc Dương Giác |
 | レイ | Rei | Con gái cả bộ ba Wraith |
 | ルイ | Rui | Con gái thứ hai bộ ba Wraith |
