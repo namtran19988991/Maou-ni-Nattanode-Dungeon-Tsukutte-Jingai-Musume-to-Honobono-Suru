@@ -132,6 +132,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 翼人族の頭領 | Trưởng tộc Dực Nhân / Tộc trưởng Dực Nhân | Thủ lĩnh/Tộc trưởng Dực Nhân tộc |
 | レグリス | Regris | Chiến sĩ tộc Dực Nhân |
 | オリアス | Orias | Chiến sĩ tộc Dực Nhân |
+| レイロー | Raylor | Lãnh chúa thành phố Alfeiro (Chiến Thần) |
+| ニゲラ | Nigella | Lãnh chúa thành phố Senguria |
+| ガムディア | Gamdia | Cựu chỉ huy / thuộc hạ thân cận của Raylor |
 
 
 ---
