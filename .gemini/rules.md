@@ -85,6 +85,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Neru | Yuki | em | Onii-san | Neru gọi Yuki là Onii-san |
 | Neru | Trưởng tộc Dực Nhân | tôi | ngài / các ngài | Neru với Tộc trưởng / Thủ lĩnh Dực Nhân |
 | Neru | Raylor | tôi | ngài / Lãnh chúa-sama | Neru với Lãnh chúa Raylor |
+| Neru | Iryll | thần | ngài / người / Iryll-sama | Neru với Công chúa Iryll |
+| Iryll | Neru | em | Neru-sama | Công chúa Iryll với Neru |
 | Raylor | Neru | ta | Dũng giả-dono / Neru-dono | Lãnh chúa Raylor với Neru |
 | Raylor | Yuki | ta | Yuki-dono / cậu | Lãnh chúa Raylor với Yuki |
 | Yuki | Raylor | tôi | ông | Yuki với Lãnh chúa Raylor (gọi ông khi hội thoại; suy nghĩ/nhắc tới: ông chú lãnh chúa) |
@@ -139,6 +141,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | レイロー | Raylor | Lãnh chúa thành phố Alfeiro (Chiến Thần) |
 | ニゲラ | Nigella | Lãnh chúa thành phố Senguria |
 | ガムディア | Gamdia | Cựu chỉ huy / thuộc hạ thân cận của Raylor |
+| イリル | Iryll | Công chúa của Vương quốc loài người |
 
 
 ---
