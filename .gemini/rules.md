@@ -142,6 +142,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ニゲラ | Nigella | Lãnh chúa thành phố Senguria |
 | ガムディア | Gamdia | Cựu chỉ huy / thuộc hạ thân cận của Raylor |
 | イリル | Iryll | Công chúa của Vương quốc loài người |
+| マニュエル＝クローザ | Manuel Cloza | Con trai thứ nhà Công tước / Trung cấp hiệp sĩ |
+| エメルダ＝フローライト | Emeralda Fluorite | Nữ công tước thuộc dòng dõi Hoàng gia |
 
 
 ---
