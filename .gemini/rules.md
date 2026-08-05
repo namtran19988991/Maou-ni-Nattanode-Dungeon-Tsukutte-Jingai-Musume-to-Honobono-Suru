@@ -99,7 +99,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 ### Quy tắc chung:
 - Tên nhân vật **giữ nguyên** theo quy định bên dưới, không tự ý đổi.
-- Nếu tên nhân vật chưa có trong danh sách, Hãy tìm bản dịch tên nhân vật trong các chương đã có, nếu không có bản dịch tương ứng thì **giữ nguyên phiên âm gốc** (romaji, pinyin, hoặc tên gốc).
+- Nếu tên nhân vật chưa có trong danh sách, hãy tìm bản dịch tên nhân vật trong các chương đã có, nếu không có bản dịch tương ứng thì **ưu tiên sử dụng phiên âm Katakana dạng tiếng Nhật (Romaji)** thay vì dịch sang tên kiểu Anh/Tây Âu (ví dụ: ジョージ＝ヴァイヴェラ＝アボット → Joji Vivera Abotto thay vì George Vivera Abbott).
 - Tên nhân vật phải **nhất quán** xuyên suốt bản dịch.
 
 
@@ -138,12 +138,14 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 翼人族の頭領 | Trưởng tộc Dực Nhân / Tộc trưởng Dực Nhân | Thủ lĩnh/Tộc trưởng Dực Nhân tộc |
 | レグリス | Regris | Chiến sĩ tộc Dực Nhân |
 | オリアス | Orias | Chiến sĩ tộc Dực Nhân |
-| レイロー | Raylor | Lãnh chúa thành phố Alfeiro (Chiến Thần) |
+| レイロー＝ルルービア | Raylor Luluvia | Lãnh chúa thành phố Alfeiro (Chiến Thần) |
+| ジョージ＝ヴァイヴェラ＝アボット | Joji Vivera Abotto | Chủ tịch Thượng viện |
 | ニゲラ | Nigella | Lãnh chúa thành phố Senguria |
 | ガムディア | Gamdia | Cựu chỉ huy / thuộc hạ thân cận của Raylor |
 | イリル | Iryll | Công chúa của Vương quốc loài người |
 | マニュエル＝クローザ | Manuel Cloza | Con trai thứ nhà Công tước / Trung cấp hiệp sĩ |
 | エメルダ＝フローライト | Emeralda Fluorite | Nữ công tước thuộc dòng dõi Hoàng gia |
+| レイド＝グローリオ＝アーリシア | Reido Glorio Arlicia | Quốc vương Vương quốc loài người (Vương quốc Arlicia) |
 
 
 ---
