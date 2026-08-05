@@ -146,6 +146,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | マニュエル＝クローザ | Manuel Cloza | Con trai thứ nhà Công tước / Trung cấp hiệp sĩ |
 | エメルダ＝フローライト | Emeralda Fluorite | Nữ công tước thuộc dòng dõi Hoàng gia |
 | レイド＝グローリオ＝アーリシア | Reido Glorio Arlicia | Quốc vương Vương quốc loài người (Vương quốc Arlicia) |
+| カロッタ＝デマイヤー | Carotta Demeyer | Nữ Đoàn trưởng Thánh hiệp sĩ / Cấp trên của Neru |
 
 
 ---
