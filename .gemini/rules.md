@@ -148,6 +148,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | エメルダ＝フローライト | Emeralda Fluorite | Nữ công tước thuộc dòng dõi Hoàng gia |
 | レイド＝グローリオ＝アーリシア | Reido Glorio Arlicia | Quốc vương Vương quốc loài người (Vương quốc Arlicia) |
 | カロッタ＝デマイヤー | Carotta Demeyer | Nữ Đoàn trưởng Thánh hiệp sĩ / Cấp trên của Neru |
+| イグ＝ドラジール | Yggdrasil | Tinh Linh Vương |
 
 
 ---
