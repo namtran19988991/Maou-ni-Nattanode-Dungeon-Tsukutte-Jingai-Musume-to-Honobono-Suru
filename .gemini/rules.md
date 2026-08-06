@@ -92,9 +92,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Raylor | Yuki | ta | Yuki-dono / cậu | Lãnh chúa Raylor với Yuki |
 | Yuki | Raylor | tôi | ông | Yuki với Lãnh chúa Raylor (gọi ông khi hội thoại; suy nghĩ/nhắc tới: ông chú lãnh chúa) |
 | Yuki | Riru & 4 thú cưng khác (Orochi, Yata, Byaku, Seimi) | tôi | cậu / cậu ấy (nhắc đến) | Yuki xưng tôi - gọi cậu khi nói chuyện, dùng cậu ấy khi nhắc đến |
-| Yggdrasil | Yuki | Bản gia | các hạ | Tinh Linh Vương giao tiếp lịch sự, cổ phong với Yuki |
-| Yggdrasil | Refi | Bản gia | ngươi / Ngân Long / Rồng tối cao | Tinh Linh Vương với Refi (bạn cũ) |
-| Yuki | Yggdrasil | tôi | ngài / Tinh Linh Vương-san | Yuki với Tinh Linh Vương |
+| Yggdrasil | Yuki | bản gia | các hạ | Tinh Linh Vương Yggdrasil với Yuki |
+| Yggdrasil | Refi | bản gia | ngươi / Ngân Long | Tinh Linh Vương Yggdrasil với Refi |
 
 
 
