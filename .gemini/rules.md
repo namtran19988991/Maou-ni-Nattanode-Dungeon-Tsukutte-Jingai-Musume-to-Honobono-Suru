@@ -180,6 +180,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 武器錬成 | Biến đổi vũ khí | Kỹ năng | Kỹ năng tạo/biến đổi vũ khí |
 | 危機察知 | Cảm Biến Nguy Hiểm | Kỹ năng | Kỹ năng nhận biết nguy hiểm |
 | 魔術付与 | Yểm Phép | Kỹ năng | Kỹ năng Yểm Phép/phụ giới |
+| 爆炎轟 | Bạo Viêm | Kỹ năng / Mạch ma thuật | Mạch ma thuật tiêu diệt quy mô quân đoàn của Yuki |
 | 異世界の魔王 | Ma vương từ thế giới khác | Danh hiệu | Danh hiệu của Yuki |
 | 断罪者 | đoạn tội giả | Danh hiệu | Danh hiệu của Yuki |
 | 人類の敵対者 | Nhân loại đối địch giả | Danh hiệu | Danh hiệu của Yuki |
