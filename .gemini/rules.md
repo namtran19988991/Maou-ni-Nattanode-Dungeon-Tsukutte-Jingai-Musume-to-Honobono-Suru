@@ -84,6 +84,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Phinal | Haloria | tôi | cô / Haloria | Vua Ma Giới với thuộc hạ Haloria |
 | Neru | Ronia | em | chị / Ronia | quan hệ chị em / bạn bè (Neru gọi Ronia là chị / chị ấy) |
 | Ronia | Neru | chị / tôi | em / Neru | Ronia với Neru |
+| Lyuu | Neru | chị | em / Neru | quan hệ chị em (Lyuu lớn tuổi hơn) |
+| Neru | Lyuu | em | chị / chị Lyuu | quan hệ chị em (Lyuu lớn tuổi hơn) |
 | Neru | Yuki | em | Onii-san | Neru gọi Yuki là Onii-san |
 | Neru | Trưởng tộc Dực Nhân | tôi | ngài / các ngài | Neru với Tộc trưởng / Thủ lĩnh Dực Nhân |
 | Neru | Raylor | tôi | ngài / Lãnh chúa-sama | Neru với Lãnh chúa Raylor |
