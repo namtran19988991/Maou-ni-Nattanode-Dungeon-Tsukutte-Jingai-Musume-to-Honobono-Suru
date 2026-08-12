@@ -59,8 +59,6 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Refi | anh | em / em ấy (nhắc đến) | quan hệ vợ chồng (khi hội thoại: anh - em; khi suy nghĩ/nhắc tới: em ấy) |
 | Refi | Yuki | em | anh | quan hệ vợ chồng |
 | Yuki | Kẻ thù / Kẻ gây sự | tao | mày | khi khiêu khích, cãi nhau với kẻ thù |
-| Gyuorga | Yuki | ta | ngươi | Gyuorga (Hắc Long/Long Vương) coi thường Yuki |
-| Gyuorga | Refi | ta | ngươi/Reficios | Gyuorga với Refi |
 | Refi | Illuna | chị | em | quan hệ chị em |
 | Refi | Shii | chị | em | quan hệ chị em |
 | Refi | Enne | chị | em | quan hệ chị em |
@@ -87,7 +85,6 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Lyuu | Neru | chị | em / Neru | quan hệ chị em (Lyuu lớn tuổi hơn) |
 | Neru | Lyuu | em | chị / chị Lyuu | quan hệ chị em (Lyuu lớn tuổi hơn) |
 | Neru | Yuki | em | Onii-san | Neru gọi Yuki là Onii-san |
-| Neru | Trưởng tộc Dực Nhân | tôi | ngài / các ngài | Neru với Tộc trưởng / Thủ lĩnh Dực Nhân |
 | Neru | Raylor | tôi | ngài / Lãnh chúa-sama | Neru với Lãnh chúa Raylor |
 | Neru | Iryll | thần | ngài / người / Iryll-sama | Neru với Công chúa Iryll |
 | Iryll | Neru | em | Neru-sama | Công chúa Iryll với Neru |
