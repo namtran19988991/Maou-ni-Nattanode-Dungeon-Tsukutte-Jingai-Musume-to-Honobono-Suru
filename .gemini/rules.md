@@ -25,7 +25,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Văn phong đầy đủ, rõ ý và mềm mại**: Câu văn phải diễn đạt trọn vẹn ý nghĩa, không được quá tối giản hay cộc lốc. Ưu tiên sự mượt mà, tự nhiên trong diễn đạt, thể hiện được cảm xúc của nhân vật (cả nội tâm và lời thoại)  đồng thời phải đảm bảo phù hợp với nội dung nguyên tác để thể hiện đúng nội dung nguyên tác muốn truyền tải.
 - ** Bắt buộc không** sử dụng dấu gạch ngang (“—”) trong kết quả đầu ra mà sử dụng các từ ngữ, cách diễn đạt hoặc dấu câu tự nhiên trong tiếng Việt.
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
-- **Dấu ngoặc hội thoại**: Các đoạn hội thoại trực tiếp của nhân vật bắt buộc phải để trong **dấu ngoặc kép `""`** (ví dụ: `"Xin chào!"`), tuyệt đối không sử dụng dấu ngoặc vuông/ngoặc kép kiểu Nhật (`「」`).
+- **Dấu ngoặc hội thoại**: Các đoạn hội thoại trực tiếp của nhân vật bắt buộc phải để trong **dấu ngoặc kép `""`** (ví dụ: `"Xin chào!"`), tuyệt đối không sử dụng dấu ngoặc vuông/ngoặc kép kiểu Nhật (`「」`) ngoại trừ Enne nói khi đang trong dạng thanh kiếm (đối với dạng người vẫn dùng dấu `""`).
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
 - **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh phiên âm tiếng việt thay vì dịch hẳn thành chữ cái tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi, tiếng gầm, tiếng thở dốc, tiếng thốt/giật mình v.v. (có thể tham khảo các từ tượng thanh đã có trong các chương trước nếu không đủ ngữ cảnh) (ví dụ: tiếng thốt giật mình "――――ッ！！" → "Kuh...!", tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "fufufu", "guhh", "gaaahhhh", haaa...haa... v.v).
