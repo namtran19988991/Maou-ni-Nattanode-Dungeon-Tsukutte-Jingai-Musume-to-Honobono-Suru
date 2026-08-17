@@ -94,7 +94,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Riru & 4 thú cưng khác (Orochi, Yata, Byaku, Seimi) | tôi | cậu / cậu ấy (nhắc đến) | Yuki xưng tôi - gọi cậu khi nói chuyện, dùng cậu ấy khi nhắc đến |
 | Yggdrasil | Yuki | bản gia | các hạ | Tinh Linh Vương Yggdrasil với Yuki |
 | Yggdrasil | Refi | bản gia | ngươi / Ngân Long | Tinh Linh Vương Yggdrasil với Refi |
-
+| Yuki | Reido | tôi | Quốc vương / ông | Yuki với Quốc vương Reido giao tiếp bình đẳng |
+| Reido | Yuki | ta | cậu / Yuki-dono | Reido với Yuki giao tiếp bình đẳng |
 
 
 
@@ -122,7 +123,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ナイヤ | Naiya | Miêu thú nhân / Mạo hiểm giả |
 | ミーレ | Miele | Ma thuật sĩ tộc Ma Nữ / Mạo hiểm giả |
 | ルイーヌ | Luine | Mạo hiểm giả / Tộc Ác Ma Tenzel |
-| フィナル | Phinal | Vua của Ma Giới / Phinal = Regineris = Saturnia |
+| フィナル | Phinal | Vua của Ma Giới / Phinal Regineris Saturnia |
 | ロニア＝ルシードル | Ronia Lucidor | Pháp sư hoàng gia / Bạn của Neru |
 | ゲジュウ | Gejuu | Con trai công tước thuộc tộc Ma Nhân Cơ Bắp |
 | ハロリア | Haloria | Cận vệ của Phinal (Yuki gọi biệt danh フードちゃん -> cận vệ-san) |
