@@ -69,7 +69,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Refi | Lyuu | chị | em | quan hệ chị em / thân thiết |
 | Lyuu | Refi | em | chị / Refi-sama / ngài | quan hệ chị em / thân thiết |
 | Refi | Leila | tôi | cô | quan hệ chủ nhân - hầu gái |
-| Leila | Refi | em | Refi-sama/ngài | quan hệ chủ nhân - hầu gái |
+| Leila | Refi | tôi | Refi-sama/ngài | quan hệ chủ nhân - hầu gái |
 | Leila | Lyuu | tôi | cô  | quan hệ ngang hàng |
 | Lyuu | Leila | tôi | cô  | quan hệ ngang hàng |
 | Haloria | Leila | tôi | cô | quan hệ ngang hàng |
