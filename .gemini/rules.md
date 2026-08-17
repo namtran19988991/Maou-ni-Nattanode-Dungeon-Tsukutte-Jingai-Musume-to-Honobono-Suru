@@ -96,6 +96,17 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yggdrasil | Refi | bản gia | ngươi / Ngân Long | Tinh Linh Vương Yggdrasil với Refi |
 | Yuki | Reido | tôi | Quốc vương / ông | Yuki với Quốc vương Reido giao tiếp bình đẳng |
 | Reido | Yuki | ta | cậu / Yuki-dono | Reido với Yuki giao tiếp bình đẳng |
+| Phinal | Naforaze | tôi | cô | Quan hệ ngang hàng |
+| Phinal | Reido | tôi | ông | Quan hệ ngang hàng |
+| Naforaze | Phinal | ta | ngươi | Quan hệ ngang hàng |
+| Naforaze | Reido | ta | ông | Quan hệ ngang hàng |
+| Naforaze | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
+| Phinal | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
+| Reido | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
+
+
+
+
 
 
 
