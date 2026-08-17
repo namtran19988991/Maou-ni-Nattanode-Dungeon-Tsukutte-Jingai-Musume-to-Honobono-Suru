@@ -103,6 +103,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Naforaze | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
 | Phinal | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
 | Reido | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
+| Reido | Naforaze | tôi | ngài | Quan hệ xã giao |
+| Reido | Phinal | tôi | ngài | Quan hệ xã giao |
+
 
 
 
