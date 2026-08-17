@@ -105,6 +105,15 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Reido | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
 | Reido | Naforaze | tôi | ngài | Quan hệ xã giao |
 | Reido | Phinal | tôi | ngài | Quan hệ xã giao |
+| Phinal | Valdoroy | tôi | ông | Quan hệ xã giao |
+| Phinal | Doda | tôi | ông | Quan hệ xã giao |
+| Doda | Phinal | ta | ngài | Quan hệ xã giao |
+| Doda | Reido | ta | ngài | Quan hệ xã giao |
+| Doda | Valdoroy | ta | ngài | Quan hệ xã giao |
+| Genaus Lorraine | Yuki | tôi | ngài | Quan hệ xã giao |
+| Yuki | Genaus Lorraine | tôi | ông | Quan hệ xã giao |
+
+
 
 
 
