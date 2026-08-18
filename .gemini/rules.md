@@ -112,8 +112,6 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Doda | Valdoroy | ta | ngài | Quan hệ xã giao |
 | Genaus Lorraine | Yuki | tôi | ngài | Quan hệ xã giao |
 | Yuki | Genaus Lorraine | tôi | ông | Quan hệ xã giao |
-| Shendra | Yuki | ta | cậu | Hoàng đế Đế quốc Rogard với Yuki |
-| Yuki | Shendra | tôi | ông | Yuki với Hoàng đế Shendra |
 
 
 
