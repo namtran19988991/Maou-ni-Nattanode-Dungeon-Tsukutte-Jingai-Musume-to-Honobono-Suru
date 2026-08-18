@@ -112,6 +112,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Doda | Valdoroy | ta | ngài | Quan hệ xã giao |
 | Genaus Lorraine | Yuki | tôi | ngài | Quan hệ xã giao |
 | Yuki | Genaus Lorraine | tôi | ông | Quan hệ xã giao |
+| Shendra | Yuki | ta | cậu | Hoàng đế Đế quốc Rogard với Yuki |
+| Yuki | Shendra | tôi | ông | Yuki với Hoàng đế Shendra |
 
 
 
@@ -175,6 +177,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | レイド＝グローリオ＝アーリシア | Reido Glorio Arlicia | Quốc vương Vương quốc loài người (Vương quốc Arlicia) |
 | カロッタ＝デマイヤー | Carotta Demeyer | Nữ Đoàn trưởng Thánh hiệp sĩ / Cấp trên của Neru |
 | イグ＝ドラジール | Yggdrasil | Tinh Linh Vương |
+| シェンドラ＝ガンドル＝ローガルド | Shendra Gandor Rogard | Hoàng đế Đế quốc Rogard |
+| デレウェス | Delewes | Phó chỉ huy Ác Ma tộc |
 
 
 ---
@@ -255,6 +259,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 月華 | Nguyệt Hoa | Vũ khí | Đoản kiếm Yuki tặng cho Neru |
 | アルフィーロ | Alfeiro | Địa điểm | Thành phố biên giới của vương quốc loài người |
 | センギュリア | Senguria | Địa điểm | Thành phố trung chuyển trên đường tới Vương đô |
+| ローガルド帝国 | Đế quốc Rogard | Địa điểm | Đế quốc loài người do Shendra cai trị |
 
 
 
