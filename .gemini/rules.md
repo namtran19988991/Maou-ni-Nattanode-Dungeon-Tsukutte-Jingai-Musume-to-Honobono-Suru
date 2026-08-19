@@ -112,11 +112,14 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Doda | Valdoroy | ta | ngài | Quan hệ xã giao |
 | Genaus Lorraine | Yuki | tôi | ngài | Quan hệ xã giao |
 | Yuki | Genaus Lorraine | tôi | ông | Quan hệ xã giao |
-
-
-
-
-
+| Yuki | Roselia | tôi | dì | Yuki với mẹ Lyuu (Roselia) |
+| Roselia | Yuki | tôi | cậu | Mẹ Lyuu (Roselia) với Yuki |
+| Refi | Roselia | tôi | cô | Refi với mẹ Lyuu (Roselia) |
+| Roselia | Refi | tôi | ngài | Mẹ Lyuu (Roselia) với Refi (Rồng Tối Cao) |
+| Leila | Roselia | tôi | dì | Leila với mẹ Lyuu (Roselia) |
+| Roselia | Leila | tôi | cô | Mẹ Lyuu (Roselia) với Leila |
+| Vergillus | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
+| Vergillus | Yuki | ta | cậu | Quan hệ ngang hàng |
 
 
 
@@ -159,6 +162,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | シィ | Shii | Slime / Quái vật Dungeon |
 | リュー | Lyuu | Hầu gái thú nhân (Tên đầy đủ là Lyuuin Gilou) |
 | レイラ | Leila | Hầu gái tộc Dương Giác |
+| ロシエラ | Roselia | Mẹ của Lyuu (Roselia Gilou) |
+| ベルギルス | Vergillus | Cha của Lyuu / Tộc trưởng tộc Chiến Lang (Vergillus Gilou) |
 | レイ | Rei | Con gái cả bộ ba Wraith |
 | ルイ | Rui | Con gái thứ hai bộ ba Wraith |
 | ロー | Rou | Con gái út bộ ba Wraith |
