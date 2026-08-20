@@ -28,7 +28,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Dấu ngoặc hội thoại**: Các đoạn hội thoại trực tiếp của nhân vật bắt buộc phải để trong **dấu ngoặc kép `""`** (ví dụ: `"Xin chào!"`), tuyệt đối không sử dụng dấu ngoặc vuông/ngoặc kép kiểu Nhật (`「」`) ngoại trừ Enne nói khi đang trong dạng thanh kiếm (đối với dạng người vẫn dùng dấu `""`).
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
-- **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh phiên âm tiếng việt thay vì dịch hẳn thành chữ cái tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi, tiếng gầm, tiếng thở dốc, tiếng thốt/giật mình v.v. (có thể tham khảo các từ tượng thanh đã có trong các chương trước nếu không đủ ngữ cảnh) (ví dụ: tiếng thốt giật mình "――――ッ！！" → "Kuh...!", tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "fufufu", "guhh", "gaaahhhh", haaa...haa... v.v).
+- **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh phiên âm tiếng việt thay vì dịch hẳn thành chữ cái tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi, tiếng gầm, tiếng thở dốc, tiếng thốt/giật mình v.v. (có thể tham khảo các từ tượng thanh đã có trong các chương trước nếu không đủ ngữ cảnh) (ví dụ: tiếng thốt giật mình "――――ッ！！" → "Kuh...!", tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "カカ" → "fufu", "fufufu", "guhh", "gaaahhhh", haaa...haa... v.v).
 - **Giọng văn nội tâm** (suy nghĩ của nhân vật chính): sử dụng **văn phong đời thường, thoải mái**, có thể dùng ngôn ngữ bông đùa, tự giễu, phản ứng cảm thán tự nhiên. Tránh dùng giọng văn quá trang trọng hay cứng nhắc cho phần nội tâm.
 - **Khẩu ngữ đặc trưng** của nhân vật cần được giữ nguyên (ví dụ: nhân vật luôn nói "desu" ở cuối câu → giữ nguyên "desu" trong bản dịch để thể hiện cá tính).
 - Ưu tiên **cách diễn đạt tự nhiên trong tiếng Việt** hơn là dịch sát từng từ. Ví dụ: "思わずため息が出る" → "Tôi bất giác thở dài" thay vì "Một tiếng thở dài không tự chủ thoát ra".
@@ -117,9 +117,12 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Refi | Roselia | tôi | cô | Refi với mẹ Lyuu (Roselia) |
 | Roselia | Refi | tôi | ngài | Mẹ Lyuu (Roselia) với Refi (Rồng Tối Cao) |
 | Leila | Roselia | tôi | dì | Leila với mẹ Lyuu (Roselia) |
-| Roselia | Leila | tôi | cô | Mẹ Lyuu (Roselia) với Leila |
 | Vergillus | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
 | Vergillus | Yuki | ta | cậu | Quan hệ ngang hàng |
+| Emyu | Yuki | ta | ngươi / Ma Vương | Emyu xưng ta - gọi ngươi / Ma Vương với Yuki |
+| Yuki | Emyu | tôi / anh | em / nhóc / Emyu | Yuki xưng anh/tôi - gọi em/nhóc với Emyu |
+| Leila | Emyu | chị | em / Emyu | Quan hệ chị em kết nghĩa |
+| Emyu | Leila | em | Onee-sama / chị | Quan hệ chị em kết nghĩa |
 
 
 
@@ -182,6 +185,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | イグ＝ドラジール | Yggdrasil | Tinh Linh Vương |
 | シェンドラ＝ガンドル＝ローガルド | Shendra Gandor Rogard | Hoàng đế Đế quốc Rogard |
 | デレウェス | Delewes | Phó chỉ huy Ác Ma tộc |
+| エミュー | Emyu | Em gái kết nghĩa của Leila / Tộc Dương Giác |
+| エルドガリア | Eldogaria | Sư phụ của Leila / Đạo Sư - Đại học Ma thuật |
 
 
 ---
