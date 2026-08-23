@@ -124,6 +124,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Emyu | anh | nhóc / Emyu | Yuki xưng anh - gọi nhóc với Emyu |
 | Leila | Emyu | chị | em / Emyu | Quan hệ chị em kết nghĩa |
 | Emyu | Leila | em | Onee-sama / chị | Quan hệ chị em kết nghĩa |
+| Ruin | Yuki | ta | cậu | Ruin xưng ta - gọi cậu với Yuki |
+| Yuki | Ruin | tôi | ông | Yuki xưng tôi - gọi ông với Ruin |
 
 
 
