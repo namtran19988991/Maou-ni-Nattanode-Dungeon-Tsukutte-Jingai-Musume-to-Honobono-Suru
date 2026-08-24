@@ -43,7 +43,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 ### Quy tắc chung:
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ**(bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Yuki nói chuyện với Illuna, Shii, Enne (anh - em) → dùng "anh, không dùng "tôi"; Yuki nói với Lyuu (Quan hệ chủ nhân - hầu gái) → dùng "tôi" - "cô" với Lyuu.
 - **Bắt buộc phải giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `-jouchan`, `-dono`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ:  `onii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
-- **Khi ngôi kể dưới góc nhìn thứ nhất của Yuki nhắc đến Refi, Illuna, Shii, Enne, Neru, Lyuu**: **Bắt buộc** dùng **"em ấy"** (không dùng "cô ấy"). 
+- **Khi ngôi kể dưới góc nhìn thứ nhất của Yuki nhắc đến Refi, Illuna, Shii, Enne, Neru, Lyuu, Leila**: **Bắt buộc** dùng **"em ấy"** (không dùng "cô ấy"). 
 - Khi nhắc đến nhân vật thuộc phe kẻ thù. **Hạn chế hoặc Không** dùng từ "gã" trừ khi cần thiết, hãy thay bằng "hắn" nếu có thể.
 
 ### Bảng xưng hô giữa các nhân vật:
@@ -64,8 +64,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Refi | Enne | chị | em | quan hệ chị em |
 | Yuki | Lyuu | anh | em / em ấy (nhắc đến) | quan hệ vợ chồng (khi hội thoại: anh - em; khi suy nghĩ/nhắc tới: em ấy/Lyuu) |
 | Lyuu | Yuki | em | anh / chủ nhân | quan hệ vợ chồng (khi đã kết hôn dùng anh thay vì ngài) |
-| Yuki | Leila | tôi | cô | quan hệ chủ nhân - hầu gái |
-| Leila | Yuki | tôi | chủ nhân/ngài/goshujin-sama | quan hệ chủ nhân - hầu gái |
+| Yuki | Leila | anh | em / em ấy (nhắc đến) | quan hệ vợ chồng (khi đã tỏ tình từ c459, hội thoại: anh - em; suy nghĩ/nhắc tới: em ấy/Leila) |
+| Leila | Yuki | em | anh / Yuki-san / chủ nhân | quan hệ vợ chồng (khi đã tỏ tình từ c459 dùng anh - em) |
 | Refi | Lyuu | chị | em | quan hệ chị em / thân thiết |
 | Lyuu | Refi | em | chị / Refi | quan hệ chị em / thân thiết |
 | Refi | Leila | tôi | cô | quan hệ người trong nhà thân thiết |
