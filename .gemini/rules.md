@@ -91,7 +91,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Raylor | Neru | ta | Dũng giả-dono / Neru-dono | Lãnh chúa Raylor với Neru |
 | Raylor | Yuki | ta | Yuki-dono / cậu | Lãnh chúa Raylor với Yuki |
 | Yuki | Raylor | tôi | ông | Yuki với Lãnh chúa Raylor (gọi ông khi hội thoại; suy nghĩ/nhắc tới: ông chú lãnh chúa) |
-| Yuki | Riru & 4 thú cưng khác (Orochi, Yata, Byaku, Seimi) | tôi | cậu / cậu ấy (nhắc đến) | Yuki xưng tôi - gọi cậu khi nói chuyện, dùng cậu ấy khi nhắc đến |
+| Yuki | Riru, Orochi, Yata | tôi | cậu / cậu ấy (nhắc đến) | Yuki xưng tôi - gọi cậu khi nói chuyện, dùng cậu ấy khi nhắc đến |
+| Yuki | Byaku, Seimi | ta | nhóc / nhóc ấy (nhắc đến) | Yuki xưng ta - gọi nhóc khi nói chuyện, dùng nhóc ấy khi nhắc đến |
+| Yuki | Thuộc cấp / Binh lính / Lãnh chúa Đế quốc Rogard | ta | ngươi / các ngươi | Hoàng đế với thuộc hạ, xưng ta - gọi ngươi / các ngươi để thể hiện sự uy quyền |
+| Thuộc cấp / Binh lính / Lãnh chúa Đế quốc Rogard | Yuki | thần | Bệ hạ / Hoàng đế Bệ hạ / Yuki Bệ hạ | Thuộc hạ với Hoàng đế |
 | Yggdrasil | Yuki | bản gia | các hạ | Tinh Linh Vương Yggdrasil với Yuki |
 | Yggdrasil | Refi | bản gia | ngươi / Ngân Long | Tinh Linh Vương Yggdrasil với Refi |
 | Yuki | Reido | tôi | Quốc vương / ông | Yuki với Quốc vương Reido giao tiếp bình đẳng |
