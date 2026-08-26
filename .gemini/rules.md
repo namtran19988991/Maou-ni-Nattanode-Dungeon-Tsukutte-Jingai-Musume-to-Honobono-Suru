@@ -277,6 +277,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | アルフィーロ | Alfeiro | Địa điểm | Thành phố biên giới của vương quốc loài người |
 | センギュリア | Senguria | Địa điểm | Thành phố trung chuyển trên đường tới Vương đô |
 | ローガルド帝国 | Đế quốc Rogard | Địa điểm | Đế quốc loài người do Shendra cai trị |
+| フルムンド | Hurumundo | Địa điểm | Thành phố pháo đài gần di tích của Đế quốc Rogard |
 
 
 
