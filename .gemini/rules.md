@@ -194,6 +194,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | デレウェス | Delewes | Phó chỉ huy Ác Ma tộc |
 | エミュー | Emyu | Em gái kết nghĩa của Leila / Tộc Dương Giác |
 | エルドガリア | Eldogaria | Sư phụ của Leila / Đạo Sư - Đại học Ma thuật |
+| カルケイド | Calkeid | Đội trưởng mật thám / Quản gia Hoàng thành Đế quốc Rogard |
 
 
 ---
