@@ -96,7 +96,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Thuộc cấp / Binh lính / Lãnh chúa Đế quốc Rogard | ta | ngươi / các ngươi | Hoàng đế với thuộc hạ, xưng ta - gọi ngươi / các ngươi để thể hiện sự uy quyền |
 | Thuộc cấp / Binh lính / Lãnh chúa Đế quốc Rogard | Yuki | thần | Bệ hạ / Hoàng đế Bệ hạ / Yuki Bệ hạ | Thuộc hạ với Hoàng đế |
 | Yggdrasil | Yuki | bản gia | các hạ | Tinh Linh Vương Yggdrasil với Yuki |
-| Yggdrasil | Refi | bản gia | ngươi / Ngân Long | Tinh Linh Vương Yggdrasil với Refi |
+| Yggdrasil | Refi | bản gia | cô | Tinh Linh Vương Yggdrasil với Refi |
+| Refi | Yggdrasil | ta | ông | Refi với Tinh Linh Vương Yggdrasil |
 | Yuki | Reido | tôi | Quốc vương / ông | Yuki với Quốc vương Reido giao tiếp bình đẳng |
 | Reido | Yuki | ta | cậu / Yuki-dono | Reido với Yuki giao tiếp bình đẳng |
 | Phinal | Naforaze | tôi | cô | Quan hệ ngang hàng |
