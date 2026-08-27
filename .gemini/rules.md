@@ -195,6 +195,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | エミュー | Emyu | Em gái kết nghĩa của Leila / Tộc Dương Giác |
 | エルドガリア | Eldogaria | Sư phụ của Leila / Đạo Sư - Đại học Ma thuật |
 | カルケイド | Calkeid | Đội trưởng mật thám / Quản gia Hoàng thành Đế quốc Rogard |
+| クアラルカ | Kuararuka | Vợ của Vua Ma Giới Phinal / Hầu gái Hoàng thành Ma Giới (tên gọi tắt: Kua) |
 
 
 ---
@@ -230,6 +231,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 断罪者 | đoạn tội giả | Danh hiệu | Danh hiệu của Yuki |
 | 人類の敵対者 | Nhân loại đối địch giả | Danh hiệu | Danh hiệu của Yuki |
 | ガルディアン・デビル | Ác Ma Hộ Vệ | Chủng tộc | Chủng tộc của Haloria |
+| ワイズデビル | Ác Ma Trí Tuệ | Chủng tộc | Chủng tộc của Kuararuka (vợ Phinal) |
 | 近衛隠密兵 | Cận Vệ Ẩn Mật | Class | Class của Haloria |
 | テンツェル・デビル | Ác Ma Tenzel | Chủng tộc | Chủng tộc của Luine |
 | ミド・デビル | Bán Ma Nhân | Chủng tộc | Chủng tộc cải trang của Neru & Ronia |
