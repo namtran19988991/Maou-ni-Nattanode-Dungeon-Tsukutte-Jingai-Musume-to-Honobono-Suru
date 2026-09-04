@@ -196,6 +196,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | エルドガリア | Eldogaria | Sư phụ của Leila / Đạo Sư - Đại học Ma thuật |
 | カルケイド | Calkeid | Đội trưởng mật thám / Quản gia Hoàng thành Đế quốc Rogard |
 | クアラルカ | Kuararuka | Vợ của Vua Ma Giới Phinal / Hầu gái Hoàng thành Ma Giới (tên gọi tắt: Kua) |
+| ヘルガー＝ランドロス | Helgar Landros | Phó đoàn trưởng Hiệp sĩ đoàn số 1 / Chỉ huy Cận vệ Đế quốc Rogard |
+| アルヴェイロ＝ヴェルバーン | Alveiro Velburn | Nghị viên Đế quốc Rogard |
+| サイラス＝エーギル | Silas Aegir | Chủ tịch Thượng viện Đế quốc Rogard |
 
 
 ---
@@ -280,6 +283,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | センギュリア | Senguria | Địa điểm | Thành phố trung chuyển trên đường tới Vương đô |
 | ローガルド帝国 | Đế quốc Rogard | Địa điểm | Đế quốc loài người do Shendra cai trị |
 | フルムンド | Hurumundo | Địa điểm | Thành phố pháo đài gần di tích của Đế quốc Rogard |
+| 元老院 | Thượng viện | Tổ chức / Cơ quan | Cơ quan lập pháp của Đế quốc Rogard |
+| 元老院議長 | Chủ tịch Thượng viện | Chức vụ | Người đứng đầu Thượng viện Đế quốc Rogard |
+| アーベント | Abend | Tổ chức / Phe phái | Tổ chức tình báo của Đế quốc Rogard do cựu Hoàng đế Shendra thành lập |
 
 
 
