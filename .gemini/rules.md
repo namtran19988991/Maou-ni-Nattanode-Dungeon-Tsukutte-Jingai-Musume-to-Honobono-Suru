@@ -95,6 +95,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Byaku, Seimi | ta | nhóc / nhóc ấy (nhắc đến) | Yuki xưng ta - gọi nhóc khi nói chuyện, dùng nhóc ấy khi nhắc đến |
 | Yuki | Thuộc cấp / Binh lính / Lãnh chúa Đế quốc Rogard | ta | ngươi / các ngươi | Hoàng đế với thuộc hạ, xưng ta - gọi ngươi / các ngươi để thể hiện sự uy quyền |
 | Thuộc cấp / Binh lính / Lãnh chúa Đế quốc Rogard | Yuki | thần | Bệ hạ / Hoàng đế Bệ hạ / Yuki Bệ hạ | Thuộc hạ với Hoàng đế |
+| Yuki | Helgar Landros | tôi / ta | ông / Helgar | Khi nói chuyện riêng, thân mật, đời thường xưng tôi - gọi ông / Helgar; khi phát biểu trước ba quân hoặc thể hiện uy quyền Hoàng đế xưng ta |
+| Helgar Landros | Yuki | thần / chúng thần | Bệ hạ / ngài / Ypsilon-dono | Helgar luôn giữ lễ tiết tôn kính với Hoàng đế (khi Yuki đeo mặt nạ gọi Ypsilon-dono) |
+| Yuki (thân phận Ypsilon) | Cận vệ / Thuộc cấp Rogard | tôi | các cậu / mọi người / ông | Khi đeo mặt nạ đóng vai trợ thủ Ypsilon xưng tôi để giữ vỏ bọc bình thường, thân mật |
 | Yggdrasil | Yuki | bản gia | các hạ | Tinh Linh Vương Yggdrasil với Yuki |
 | Yggdrasil | Refi | bản gia | cô | Tinh Linh Vương Yggdrasil với Refi |
 | Refi | Yggdrasil | ta | ông | Refi với Tinh Linh Vương Yggdrasil |
@@ -163,7 +166,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ロニア＝ルシードル | Ronia Lucidor | Pháp sư hoàng gia / Bạn của Neru |
 | ゲジュウ | Gejuu | Con trai công tước thuộc tộc Ma Nhân Cơ Bắp |
 | ハロリア | Haloria | Cận vệ của Phinal (Yuki gọi biệt danh フードちゃん -> cận vệ-san) |
-| ユプシロン | Ypsilon | Tên giả cải trang của Yuki khi tham gia thi đấu |
+| ユプシロン | Ypsilon | Tên giả cải trang của Yuki khi tham gia thi đấu hoặc khi đeo mặt nạ làm trợ thủ bí ẩn |
 | ゴジム | Gojim | Thủ lĩnh của Ác Ma tộc |
 | ルノーギル | Renogil | Cánh tay phải của Phinal / Sát Thủ Thầm Lặng |
 | パラグロ | Paragro | Thí sinh đối thủ đầu tiên ở vòng chính thức |
