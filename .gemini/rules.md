@@ -68,8 +68,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Leila | Yuki | em | anh / Yuki-san / chủ nhân | quan hệ vợ chồng (khi đã tỏ tình từ c459 dùng anh - em) |
 | Refi | Lyuu | chị | em | quan hệ chị em / thân thiết |
 | Lyuu | Refi | em | chị / Refi | quan hệ chị em / thân thiết |
-| Refi | Leila | tôi | cô | quan hệ người trong nhà thân thiết |
-| Leila | Refi | tôi | Refi/ngài | quan hệ người trong nhà thân thiết |
+| Refi | Leila | chị | em | quan hệ chị em / thân thiết |
+| Leila | Refi | em | chị / Refi | quan hệ chị em / thân thiết |
 | Leila | Lyuu | tôi | cô  | quan hệ ngang hàng |
 | Lyuu | Leila | tôi | cô  | quan hệ ngang hàng |
 | Haloria | Leila | tôi | cô | quan hệ ngang hàng |
