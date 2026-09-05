@@ -93,6 +93,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Raylor | tôi | ông | Yuki với Lãnh chúa Raylor (gọi ông khi hội thoại; suy nghĩ/nhắc tới: ông chú lãnh chúa) |
 | Yuki | Riru, Orochi, Yata | tôi | cậu / cậu ấy (nhắc đến) | Yuki xưng tôi - gọi cậu khi nói chuyện, dùng cậu ấy khi nhắc đến |
 | Yuki | Byaku, Seimi | ta | nhóc / nhóc ấy (nhắc đến) | Yuki xưng ta - gọi nhóc khi nói chuyện, dùng nhóc ấy khi nhắc đến |
+| Refi | Riru | ta | cậu / Riru | Quan hệ chủ nhân và thú cưng |
+| Riru | Refi | tôi | ngài / Refi-sama | Quan hệ thú cưng và chủ nhân |
+| Refi | Vợ của Riru | ta | cô | Quan hệ chủ nhân và thú cưng |
+| Vợ của Riru | Refi | tôi | ngài | Quan hệ thú cưng và chủ nhân |
 | Yuki | Thuộc cấp / Binh lính / Lãnh chúa Đế quốc Rogard | ta | ngươi / các ngươi | Hoàng đế với thuộc hạ, xưng ta - gọi ngươi / các ngươi để thể hiện sự uy quyền |
 | Thuộc cấp / Binh lính / Lãnh chúa Đế quốc Rogard | Yuki | thần | Bệ hạ / Hoàng đế Bệ hạ / Yuki Bệ hạ | Thuộc hạ với Hoàng đế |
 | Yuki | Helgar Landros | tôi / ta | ông / Helgar | Khi nói chuyện riêng, thân mật, đời thường xưng tôi - gọi ông / Helgar; khi phát biểu trước ba quân hoặc thể hiện uy quyền Hoàng đế xưng ta |
