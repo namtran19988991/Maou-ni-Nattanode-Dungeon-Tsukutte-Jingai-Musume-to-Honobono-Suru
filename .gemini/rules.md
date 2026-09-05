@@ -103,6 +103,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Helgar Landros | Yuki | thần / chúng thần | Bệ hạ / ngài / Ypsilon-dono | Helgar luôn giữ lễ tiết tôn kính với Hoàng đế (khi Yuki đeo mặt nạ gọi Ypsilon-dono) |
 | Yuki (thân phận Ypsilon) | Cận vệ / Thuộc cấp Rogard | tôi | các cậu / mọi người / ông | Khi đeo mặt nạ đóng vai trợ thủ Ypsilon xưng tôi để giữ vỏ bọc bình thường, thân mật |
 | Yggdrasil | Yuki | bản gia | các hạ | Tinh Linh Vương Yggdrasil với Yuki |
+| Yuki | Yggdrasil | tôi | ông | Quan hệ ngang hàng |
 | Yggdrasil | Refi | bản gia | cô | Tinh Linh Vương Yggdrasil với Refi |
 | Refi | Yggdrasil | ta | ông | Refi với Tinh Linh Vương Yggdrasil |
 | Yuki | Reido | tôi | Quốc vương / ông | Yuki với Quốc vương Reido giao tiếp bình đẳng |
