@@ -142,6 +142,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Emyu | Leila | em | Onee-sama / chị | Quan hệ chị em kết nghĩa |
 | Ruin | Yuki | ta | cậu | Ruin xưng ta - gọi cậu với Yuki |
 | Yuki | Ruin | tôi | ông | Yuki xưng tôi - gọi ông với Ruin |
+| Emyu | Eldogaria | tôi | bà / sư phụ | Quan hệ sư đồ (Emyu xưng tôi - gọi bà / sư phụ) |
+| Eldogaria | Emyu | ta | con / Emyu | Quan hệ sư đồ (Eldogaria xưng ta - gọi con / Emyu) |
 | Nhóm thiếu nữ (Illuna, Enne, Shii, 3 bé Wraith: Rei, Rui, Rou, Emyu) | Nhóm thiếu nữ (nói chuyện với nhau) | mình | cậu | Quan hệ bạn bè ngang hàng (bắt buộc dùng mình - cậu hoặc gọi tên) |
 
 
