@@ -133,6 +133,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Leila | Roselia | tôi | dì | Leila với mẹ Lyuu (Roselia) |
 | Vergillus | Refi | tôi | ngài | Quan hệ trên dưới (Refi là Rồng Tối Cao, luôn được xem là bề trên) |
 | Vergillus | Yuki | ta | cậu | Quan hệ ngang hàng |
+| Vergillus | Roselia | anh | em / Roselia / mình | Quan hệ vợ chồng |
+| Roselia | Vergillus | em | anh / mình | Quan hệ vợ chồng |
 | Emyu | Yuki | ta | ngươi / Ma Vương | Emyu xưng ta - gọi ngươi / Ma Vương với Yuki |
 | Yuki | Emyu | anh | nhóc / Emyu | Yuki xưng anh - gọi nhóc với Emyu |
 | Leila | Emyu | chị | em / Emyu | Quan hệ chị em kết nghĩa |
