@@ -42,7 +42,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 ### Quy tắc chung:
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ**(bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Yuki nói chuyện với Illuna, Shii, Enne (anh - em) → dùng "anh, không dùng "tôi"; Yuki nói với Lyuu (Quan hệ chủ nhân - hầu gái) → dùng "tôi" - "cô" với Lyuu.
-- **Xưng hô trong nhóm thiếu nữ (Illuna, Enne, Shii, 3 bé Wraith: Rei, Rui, Rou)**: Xem nhau là bạn bè ngang hàng, bắt buộc dùng **"mình" - "cậu"** hoặc **gọi tên** khi nói chuyện với nhau.
+- **Xưng hô trong nhóm thiếu nữ (Illuna, Enne, Shii, Emyu, 3 bé Wraith: Rei, Rui, Rou)**: Xem nhau là bạn bè ngang hàng, bắt buộc dùng **"mình" - "cậu"** hoặc **gọi tên** khi nói chuyện với nhau.
 - **Bắt buộc phải giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `-jouchan`, `-dono`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ:  `onii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
 - **Khi ngôi kể dưới góc nhìn thứ nhất của Yuki nhắc đến Refi, Illuna, Shii, Enne, Neru, Lyuu, Leila**: **Bắt buộc** dùng **"em ấy"** (không dùng "cô ấy"). 
 - Khi nhắc đến nhân vật thuộc phe kẻ thù. **Hạn chế hoặc Không** dùng từ "gã" trừ khi cần thiết, hãy thay bằng "hắn" nếu có thể.
@@ -94,6 +94,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Raylor | tôi | ông | Yuki với Lãnh chúa Raylor (gọi ông khi hội thoại; suy nghĩ/nhắc tới: ông chú lãnh chúa) |
 | Yuki | Riru, Orochi, Yata | tôi | cậu / cậu ấy (nhắc đến) | Yuki xưng tôi - gọi cậu khi nói chuyện, dùng cậu ấy khi nhắc đến |
 | Yuki | Byaku, Seimi | ta | nhóc / nhóc ấy (nhắc đến) | Yuki xưng ta - gọi nhóc khi nói chuyện, dùng nhóc ấy khi nhắc đến |
+| Yuki | Setsu | ta | con / con bé (nhắc đến) | Yuki xưng ta - gọi con khi nói chuyện với Setsu |
 | Refi | Riru | ta | cậu / Riru | Quan hệ chủ nhân và thú cưng |
 | Riru | Refi | tôi | ngài / Refi-sama | Quan hệ thú cưng và chủ nhân |
 | Refi | Vợ của Riru | ta | cô | Quan hệ chủ nhân và thú cưng |
@@ -141,7 +142,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Emyu | Leila | em | Onee-sama / chị | Quan hệ chị em kết nghĩa |
 | Ruin | Yuki | ta | cậu | Ruin xưng ta - gọi cậu với Yuki |
 | Yuki | Ruin | tôi | ông | Yuki xưng tôi - gọi ông với Ruin |
-| Nhóm thiếu nữ (Illuna, Enne, Shii, 3 bé Wraith: Rei, Rui, Rou) | Nhóm thiếu nữ (nói chuyện với nhau) | mình | cậu | Quan hệ bạn bè ngang hàng (bắt buộc dùng mình - cậu hoặc gọi tên) |
+| Nhóm thiếu nữ (Illuna, Enne, Shii, 3 bé Wraith: Rei, Rui, Rou, Emyu) | Nhóm thiếu nữ (nói chuyện với nhau) | mình | cậu | Quan hệ bạn bè ngang hàng (bắt buộc dùng mình - cậu hoặc gọi tên) |
 
 
 
@@ -211,6 +212,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | ヘルガー＝ランドロス | Helgar Landros | Phó đoàn trưởng Hiệp sĩ đoàn số 1 / Chỉ huy Cận vệ Đế quốc Rogard |
 | アルヴェイロ＝ヴェルバーン | Alveiro Velburn | Nghị viên Đế quốc Rogard |
 | サイラス＝エーギル | Silas Aegir | Chủ tịch Thượng viện Đế quốc Rogard |
+| セツ | Setsu | Con gái của vợ chồng Riru / Sói Fenrir |
+| リウ | Riu | Con gái của Yuki và Lyuu / Tộc Chiến Lang |
+| サクヤ | Sakuya | Con trai của Yuki và Refi |
+| ウィラリ＝ギロル | Willari Gilou | Nhân viên tộc Thú Nhân / Họ hàng gia tộc Gilou |
 
 
 ---
@@ -223,6 +228,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 
 | Tên gốc (JP) | Tên dịch (VI) | Loại | Ghi chú |
 |---------------|---------------|------|--------|
+| 迷宮 / ダンジョン | Dungeon | Thuật ngữ / Địa điểm | Dùng 'Dungeon', không dùng 'mê cung' hay 'hầm ngục' |
 | 真・玉座の間 | Phòng Ngai Vàng | Địa điểm | Phòng ngai vàng trong Hầm Ngục |
 | 魔境の森 | Rừng Quỷ | Địa điểm | Khu rừng nguy hiểm nơi có Dungeon của Yuki |
 | アルシル | Arsil | Địa điểm | Vương Đô thuộc vương quốc loài người |
