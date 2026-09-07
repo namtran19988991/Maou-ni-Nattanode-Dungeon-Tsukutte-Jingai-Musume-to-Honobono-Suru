@@ -145,6 +145,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Emyu | Eldogaria | tôi | bà / sư phụ | Quan hệ sư đồ (Emyu xưng tôi - gọi bà / sư phụ) |
 | Eldogaria | Emyu | ta | con / Emyu | Quan hệ sư đồ (Eldogaria xưng ta - gọi con / Emyu) |
 | Nhóm thiếu nữ (Illuna, Enne, Shii, 3 bé Wraith: Rei, Rui, Rou, Emyu) | Nhóm thiếu nữ (nói chuyện với nhau) | mình | cậu | Quan hệ bạn bè ngang hàng (bắt buộc dùng mình - cậu hoặc gọi tên) |
+| Begarda Farentia | Yuki | tôi | cậu / Yuki-dono | Nguyên thủ quốc gia Liên minh Thương nghiệp Erlane với Yuki |
+| Yuki | Begarda Farentia | tôi | bà | Yuki với Begarda Farentia |
+| Begarda Farentia | Genaus Lorraine | ta | ông / Đại tá | Nguyên thủ quốc gia với Genaus |
+| Genaus Lorraine | Begarda Farentia | thuộc cấp / tôi | ngài | Genaus với nguyên thủ quốc gia Begarda Farentia |
 
 
 
@@ -218,6 +222,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | リウ | Riu | Con gái của Yuki và Lyuu / Tộc Chiến Lang |
 | サクヤ | Sakuya | Con trai của Yuki và Refi |
 | ウィラリ＝ギロル | Willari Gilou | Nhân viên tộc Thú Nhân / Họ hàng gia tộc Gilou |
+| ベガルダ＝ファレンティア | Begarda Farentia | Nguyên thủ quốc gia Liên minh Thương nghiệp Erlane |
 
 
 ---
