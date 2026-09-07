@@ -311,6 +311,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 元老院 | Thượng viện | Tổ chức / Cơ quan | Cơ quan lập pháp của Đế quốc Rogard |
 | 元老院議長 | Chủ tịch Thượng viện | Chức vụ | Người đứng đầu Thượng viện Đế quốc Rogard |
 | アーベント | Abend | Tổ chức / Phe phái | Tổ chức tình báo của Đế quốc Rogard do cựu Hoàng đế Shendra thành lập |
+| アイテムボックス | Kho đồ | Kỹ năng / Tính năng | Tính năng/kỹ năng lưu trữ không gian của Dungeon / Item Box |
 
 
 
