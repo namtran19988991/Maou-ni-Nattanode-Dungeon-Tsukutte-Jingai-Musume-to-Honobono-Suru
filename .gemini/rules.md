@@ -149,6 +149,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Ruin | tôi | ông | Yuki xưng tôi - gọi ông với Ruin |
 | Emyu | Eldogaria | tôi | bà / sư phụ | Quan hệ sư đồ (Emyu xưng tôi - gọi bà / sư phụ) |
 | Eldogaria | Emyu | ta | con / Emyu | Quan hệ sư đồ (Eldogaria xưng ta - gọi con / Emyu) |
+| Eldogaria | Yuki | ta | cậu | Eldogaria xưng ta - gọi cậu với Yuki |
+| Yuki | Eldogaria | tôi | bà / sư phụ | Yuki xưng tôi - gọi bà / sư phụ với Eldogaria |
 | Nhóm thiếu nữ (Illuna, Enne, Shii, 3 bé Wraith: Rei, Rui, Rou, Emyu) | Nhóm thiếu nữ (nói chuyện với nhau) | mình | cậu | Quan hệ bạn bè ngang hàng (bắt buộc dùng mình - cậu hoặc gọi tên) |
 | Begarda Farentia | Yuki | tôi | cậu / Yuki-dono | Nguyên thủ quốc gia Liên minh Thương nghiệp Erlane với Yuki |
 | Yuki | Begarda Farentia | tôi | bà | Yuki với Begarda Farentia |
