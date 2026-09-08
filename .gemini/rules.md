@@ -25,7 +25,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Văn phong đầy đủ, rõ ý và mềm mại**: Câu văn phải diễn đạt trọn vẹn ý nghĩa, không được quá tối giản hay cộc lốc. Ưu tiên sự mượt mà, tự nhiên trong diễn đạt, thể hiện được cảm xúc của nhân vật (cả nội tâm và lời thoại)  đồng thời phải đảm bảo phù hợp với nội dung nguyên tác để thể hiện đúng nội dung nguyên tác muốn truyền tải.
 - ** Bắt buộc không** sử dụng dấu gạch ngang (“—”) trong kết quả đầu ra mà sử dụng các từ ngữ, cách diễn đạt hoặc dấu câu tự nhiên trong tiếng Việt.
 - Sử dụng **dấu câu** đúng chuẩn tiếng Việt.
-- **Dấu ngoặc hội thoại**: Các đoạn hội thoại trực tiếp của nhân vật bắt buộc phải để trong **dấu ngoặc kép `""`** (ví dụ: `"Xin chào!"`), tuyệt đối không sử dụng dấu ngoặc vuông/ngoặc kép kiểu Nhật (`「」`) ngoại trừ Enne nói khi đang trong dạng thanh kiếm và Tinh Linh Vương Yggdrasil khi nói (sử dụng dấu ngoặc `『』`, đối với Enne dạng người vẫn dùng dấu `""`).
+- **Dấu ngoặc hội thoại**: Các đoạn hội thoại trực tiếp của nhân vật bắt buộc phải để trong **dấu ngoặc kép `""`** (ví dụ: `"Xin chào!"`), tuyệt đối không sử dụng dấu ngoặc vuông/ngoặc kép kiểu Nhật (`「」`). Bắt buộc **giữ nguyên dấu ngoặc `『』`** trong văn bản gốc khi nhân vật sử dụng dấu ngoặc này để thể hiện việc nhân vật dùng phương thức khác để nói chuyện/truyền âm/giao tiếp đặc biệt thay vì trực tiếp phát âm (ví dụ: Enne khi đang trong dạng thanh kiếm, Tinh Linh Vương Yggdrasil khi nói, bộ xương dã thú Mukuro/Cerberus khi nói...; đối với Enne dạng người vẫn dùng dấu `""`).
 - Duy trì **nhất quán** về văn phong, cách xưng hô xuyên suốt bản dịch.
 - Các từ ngữ biểu cảm, thán từ nên được **Việt hóa tự nhiên** (ví dụ: "くそ" → "Chết tiệt", không phải "Kuso").
 - **Từ tượng thanh (Onomatopoeia)**: Giữ nguyên dạng tượng thanh phiên âm tiếng việt thay vì dịch hẳn thành chữ cái tiếng Việt đối với các từ như tiếng cười, tiếng tặc lưỡi, tiếng gầm, tiếng thở dốc, tiếng thốt/giật mình v.v. (có thể tham khảo các từ tượng thanh đã có trong các chương trước nếu không đủ ngữ cảnh) (ví dụ: tiếng thốt giật mình "――――ッ！！" → "Kuh...!", tiếng tặc lưỡi "チッ" → "Tsk", tiếng cười "く……くくッ" → "Kuh…… Kukuh…………", "カカ" → "fufu", "fufufu", "guhh", "gaaahhhh", haaa...haa... v.v).
@@ -145,6 +145,10 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Emyu | Eldogaria | tôi | bà / sư phụ | Quan hệ sư đồ (Emyu xưng tôi - gọi bà / sư phụ) |
 | Eldogaria | Emyu | ta | con / Emyu | Quan hệ sư đồ (Eldogaria xưng ta - gọi con / Emyu) |
 | Nhóm thiếu nữ (Illuna, Enne, Shii, 3 bé Wraith: Rei, Rui, Rou, Emyu) | Nhóm thiếu nữ (nói chuyện với nhau) | mình | cậu | Quan hệ bạn bè ngang hàng (bắt buộc dùng mình - cậu hoặc gọi tên) |
+| Begarda Farentia | Yuki | tôi | cậu / Yuki-dono | Nguyên thủ quốc gia Liên minh Thương nghiệp Erlane với Yuki |
+| Yuki | Begarda Farentia | tôi | bà | Yuki với Begarda Farentia |
+| Begarda Farentia | Genaus Lorraine | ta | ông / Đại tá | Nguyên thủ quốc gia với Genaus |
+| Genaus Lorraine | Begarda Farentia | thuộc cấp / tôi | ngài | Genaus với nguyên thủ quốc gia Begarda Farentia |
 
 
 
@@ -218,6 +222,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | リウ | Riu | Con gái của Yuki và Lyuu / Tộc Chiến Lang |
 | サクヤ | Sakuya | Con trai của Yuki và Refi |
 | ウィラリ＝ギロル | Willari Gilou | Nhân viên tộc Thú Nhân / Họ hàng gia tộc Gilou |
+| ベガルダ＝ファレンティア | Begarda Farentia | Nguyên thủ quốc gia Liên minh Thương nghiệp Erlane |
+| サーベラス | Cerberus | Thuộc hạ của Ma tộc khởi nguyên / Chó săn (tên hiện tại: Mukuro) |
 
 
 ---
@@ -306,6 +312,9 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | 元老院 | Thượng viện | Tổ chức / Cơ quan | Cơ quan lập pháp của Đế quốc Rogard |
 | 元老院議長 | Chủ tịch Thượng viện | Chức vụ | Người đứng đầu Thượng viện Đế quốc Rogard |
 | アーベント | Abend | Tổ chức / Phe phái | Tổ chức tình báo của Đế quốc Rogard do cựu Hoàng đế Shendra thành lập |
+| アイテムボックス | Kho đồ | Kỹ năng / Tính năng | Tính năng/kỹ năng lưu trữ không gian của Dungeon / Item Box |
+| ハルデイース | Haldeis | Vũ khí | Cổ kiếm thánh vật của Cerberus để lại cho Sakuya |
+| 原初ノ魔族 | Ma tộc khởi nguyên | Chủng tộc / Thế lực | Ma tộc nguyên thủy thời thần đại cổ xưa |
 
 
 
