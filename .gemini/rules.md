@@ -44,6 +44,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Xưng hô phải phù hợp với quan hệ giữa các nhân vật đang nói chuyện**: Trước khi dịch hội thoại, xác định rõ nhân vật nào đang nói với nhân vật nào. Xưng hô giữa các nhân vật phải **nhất quán** và **phù hợp mối quan hệ**(bạn bè ngang hàng, cấp trên/dưới, quen biết/xa lạ). Ví dụ: Yuki nói chuyện với Illuna, Shii, Enne (anh - em) → dùng "anh, không dùng "tôi"; Yuki nói với Lyuu (Quan hệ chủ nhân - hầu gái) → dùng "tôi" - "cô" với Lyuu.
 - **Xưng hô trong nhóm thiếu nữ (Illuna, Enne, Shii, Emyu, 3 bé Wraith: Rei, Rui, Rou)**: Xem nhau là bạn bè ngang hàng, bắt buộc dùng **"mình" - "cậu"** hoặc **gọi tên** khi nói chuyện với nhau.
 - **Bắt buộc phải giữ nguyên các hậu tố danh xưng/kính ngữ và cách gọi họ hàng** trong tiếng Nhật (như `-sama`, `-san`, `-kun`, `-chan`, `-jouchan`, `-dono`, `Nii-san`, `Onee-chan`) thay vì dịch sang tiếng Việt (ví dụ:  `onii-chan` thay vì `anh`, `Onee-chan` thay vì `chị hai`). 
+- **Khi Refi nói chuyện trong gia đình**: Bắt buộc dùng **"chị - em"** khi nói chuyện với các cô gái khác (Illuna, Shii, Enne, Lyuu, Leila, Neru, Rei, Rui, Rou...); tự xưng là **"chị"**, gọi đối phương là **"em" / "các em" / "mấy đứa"**.
 - **Khi ngôi kể dưới góc nhìn thứ nhất của Yuki nhắc đến Refi, Illuna, Shii, Enne, Neru, Lyuu, Leila**: **Bắt buộc** dùng **"em ấy"** (không dùng "cô ấy"). 
 - Khi nhắc đến nhân vật thuộc phe kẻ thù. **Hạn chế hoặc Không** dùng từ "gã" trừ khi cần thiết, hãy thay bằng "hắn" nếu có thể.
 
@@ -71,6 +72,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Lyuu | Refi | em | chị / Refi | quan hệ chị em / thân thiết |
 | Refi | Leila | chị | em | quan hệ chị em / thân thiết |
 | Leila | Refi | em | chị / Refi | quan hệ chị em / thân thiết |
+| Refi | Neru | chị | em | quan hệ chị em / thân thiết |
+| Neru | Refi | em | chị / Refi | quan hệ chị em / thân thiết |
 | Leila | Lyuu | tôi | cô  | quan hệ ngang hàng |
 | Lyuu | Leila | tôi | cô  | quan hệ ngang hàng |
 | Haloria | Leila | tôi | cô | quan hệ ngang hàng |
