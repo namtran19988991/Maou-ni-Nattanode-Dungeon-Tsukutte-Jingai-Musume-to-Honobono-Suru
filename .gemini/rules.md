@@ -12,7 +12,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 - **Bắt buộc phải giữ nguyên ngôi kể** (ngôi thứ nhất, ngôi thứ ba, v.v.) như trong bản gốc.
 - **Giữ nguyên ý nghĩa, bối cảnh và giọng điệu** của văn bản gốc.
 - Bản dịch phải **phù hợp với văn phong tiếng Việt**, tự nhiên và trôi chảy — không dịch máy móc từng từ.
-- Sử dụng **ngôn ngữ văn học Việt Nam** phù hợp với thể loại truyện (light novel, web novel, v.v.).
+- Sử dụng **ngôn ngữ văn học Việt Nam** phù hợp với thể loại truyện (light novel, web novel, v.v.). Hạn chế hoặc không sử dụng những từ thường được xử dụng trong loại truyện của Trung Quốc. (ví dụ: "nương tử", "cô nương" v,v). 
 - Giữ nguyên các **đoạn hội thoại** với đúng ngữ khí, cảm xúc và cách xưng hô phù hợp văn hóa Việt.
 - Các thuật ngữ chuyên ngành (fantasy, v.v.) nên được dịch theo **cách dùng phổ biến** trong cộng đồng đọc truyện Việt Nam.
 - **Không thêm chú thích, giải thích hay bình luận** vào bản dịch trừ khi được yêu cầu.
