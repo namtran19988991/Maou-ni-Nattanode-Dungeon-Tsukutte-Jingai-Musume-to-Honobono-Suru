@@ -98,6 +98,8 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | Yuki | Riru, Orochi, Yata | tôi | cậu / cậu ấy (nhắc đến) | Yuki xưng tôi - gọi cậu khi nói chuyện, dùng cậu ấy khi nhắc đến |
 | Yuki | Byaku, Seimi | ta | nhóc / nhóc ấy (nhắc đến) | Yuki xưng ta - gọi nhóc khi nói chuyện, dùng nhóc ấy khi nhắc đến |
 | Yuki | Setsu | ta | con / con bé (nhắc đến) | Yuki xưng ta - gọi con khi nói chuyện với Setsu |
+| Riru | Setsu | ba | con / con bé (nhắc đến) | Quan hệ cha con (xưng ba - gọi con) |
+| Setsu | Riru | con | ba | Quan hệ cha con (xưng con - gọi ba) |
 | Refi | Riru | ta | cậu / Riru | Quan hệ chủ nhân và thú cưng |
 | Riru | Refi | tôi | ngài / Refi-sama | Quan hệ thú cưng và chủ nhân |
 | Refi | Vợ của Riru | ta | cô | Quan hệ chủ nhân và thú cưng |
@@ -318,6 +320,7 @@ File này chứa các quy tắc và ngữ cảnh cần tuân thủ khi dịch tr
 | アイテムボックス | Kho đồ | Kỹ năng / Tính năng | Tính năng/kỹ năng lưu trữ không gian của Dungeon / Item Box |
 | ハルデイース | Haldeis | Vũ khí | Cổ kiếm thánh vật của Cerberus để lại cho Sakuya |
 | 原初ノ魔族 | Ma tộc khởi nguyên | Chủng tộc / Thế lực | Ma tộc nguyên thủy thời thần đại cổ xưa |
+| ホーンラビット | Thỏ Sừng | Chủng tộc / Ma thú | Quái vật thỏ có sừng |
 
 
 
